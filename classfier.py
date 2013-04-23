@@ -17,7 +17,7 @@ import pickle
 import requests # Get from https://github.com/kennethreitz/requests
 import string
 import random
-from sklearning import svm
+from sklearn import svm
 import pylab as pl
 
 class classifier:
@@ -33,10 +33,22 @@ class classifier:
         line = line.lower()
         line = re.split(r'[\W]+', line, 0, re.UNICODE)
         return line
+    def build_tf_idf(self):
+        """parse the infile documents; build tf_index and df_index"""
+        pass
+    def vectorization(self):
+        """build vector for each document"""
+        pass
+    def svm_train(self):
+        """use svm in sklearning to train the classifier"""
+        pass
         
+    def svm_test(self):
+        """given a vector for a document; classify it as "food, seminar or movie"""
+        pass
 def main():
     c1 = classifier()
     c1.test_func()
     
-if __name == '__main__':
+if __name__ == '__main__':
     main()
