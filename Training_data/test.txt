@@ -1,0 +1,325 @@
+﻿
+<rss version="2.0">
+    <channel>
+        <title>Texas A&amp;M University Calendar Events</title>
+        <link>http://calendar.tamu.edu/?&amp;</link>
+        <description>Events for Texas A&amp;M University Calendar</description>
+        <language>en-us</language>
+        <generator>UNL_UCBCN_Frontend-3.0</generator>
+        <lastBuildDate>Sat, 20 Apr 2013 04:26:59 -0500</lastBuildDate>
+		<description>&lt;small class="day" rel="day"&gt;Friday, March 1st&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-01T00:00:00-0600"&gt;All day&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt; Texas A&amp;M University&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Last day for Master's Non-Thesis students degree plan to be approved by the Office of Graduate Studies if graduating in August 2013.&lt;/div&gt;</description>
+	<item>	
+		<title>MSC OPAS Presents... Hooray For HollyWood</title>
+		<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=01&amp;eventdatetime_id=11372&amp;</link>
+			<guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=01&amp;eventdatetime_id=11372&amp;</guid>
+		<pubDate>Fri, 01 Mar 2013 19:30:00 -0600</pubDate>
+		<description>
+			&lt;div class="subtitle" rel="subtitle"&gt;Sponsored by: Blue Bell Creameries&lt;/div&gt;&lt;small class="day" rel="day"&gt;Friday, March 1st&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-01T19:30:00-0600"&gt;7:30 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-01T22:15:00-0600"&gt;10:15 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Rudder Theatre Complex Room:Auditorium&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Take a nostalgic journey through the most popular movie musicals of the last 50 years. Featuring a cast of 14 wonderful singers and dancers, a 6 piece band live on stage, and over 300 costume changes, enjoy film clips of your favorite movies from Singing in the Rain and The Glenn Miller Story to Grease, Dirty Dancing, and Titanic. HOORAY FOR HOLLYWOOD sings and dances its way through over 30 songs including "Staying Alive", "All that Jazz", "Dancing Queen", "Jailhouse Rock", and many more! Watch as lights, camera, action unfolds LIVE ON STAGE!	 
+			To purchase tickets visit MSCOPAS.org or call 979-845-1234.&lt;/div&gt;	
+		</description>
+	</item>
+	<item>	<title>Saturday Morning Physics</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=02&amp;eventdatetime_id=14194&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=02&amp;eventdatetime_id=14194&amp;</guid>
+	<pubDate>Sat, 02 Mar 2013 09:30:00 -0600</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;Science Lectures and Demos for Texas High School Students&lt;/div&gt;&lt;small class="day" rel="day"&gt;Saturday, March 2nd&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-02T09:30:00-0600"&gt;9:30 am&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt; Texas A&amp;M University&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;An event series for Texas High-School Students to go on a journey of discovering how physics can help us understand nature! Eighth Year Running!
+	Win prizes and earn a certificate!&lt;/div&gt;	</description>
+	</item>
+	<item>	<title>Mis Quince Anos</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=02&amp;eventdatetime_id=13408&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=02&amp;eventdatetime_id=13408&amp;</guid>
+	<pubDate>Sat, 02 Mar 2013 19:00:00 -0600</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Saturday, March 2nd&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-02T19:00:00-0600"&gt;7:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-02T23:30:00-0600"&gt;11:30 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Memorial Student Center (MSC) Room:MSC 2300&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Every year, MSC CAMAC invites the Texas A&amp;M student body and the Bryan/College Station community to "Mis Quince Anos"! This program is a Quinceanera produced by MSC CAMAC members. It represents the traditional Mexican-American way of celebrating a girl's fifteenth birthday. The ceremonies associated with it and the traditional dances will be followed by a presentation explaining the meaning of the rituals and their symbolism. The festivities will continue with a reception and a dance.&lt;/div&gt;	</description>
+	</item>
+	<item>	<title>MSC OPAS Presents... Hooray For HollyWood</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=02&amp;eventdatetime_id=11373&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=02&amp;eventdatetime_id=11373&amp;</guid>
+	<pubDate>Sat, 02 Mar 2013 19:30:00 -0600</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;Sponsored by: Blue Bell Creameries&lt;/div&gt;&lt;small class="day" rel="day"&gt;Saturday, March 2nd&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-02T19:30:00-0600"&gt;7:30 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-02T22:15:00-0600"&gt;10:15 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Rudder Theatre Complex Room:Auditorium&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Take a nostalgic journey through the most popular movie musicals of the last 50 years. Featuring a cast of 14 wonderful singers and dancers, a 6 piece band live on stage, and over 300 costume changes, enjoy film clips of your favorite movies from Singing in the Rain and The Glenn Miller Story to Grease, Dirty Dancing, and Titanic. HOORAY FOR HOLLYWOOD sings and dances its way through over 30 songs including "Staying Alive", "All that Jazz", "Dancing Queen", "Jailhouse Rock", and many more! Watch as lights, camera, action unfolds LIVE ON STAGE!
+ 
+	To purchase tickets visit MSCOPAS.org or call 979-845-1234.&lt;/div&gt;	</description>
+	</item>
+	<item>	<title>Was God an Engineer? Unveiling the Shielding and Sweeping Effects in the Alveolar Region of the Lung</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=04&amp;eventdatetime_id=14478&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=04&amp;eventdatetime_id=14478&amp;</guid>
+	<pubDate>Mon, 04 Mar 2013 09:10:00 -0600</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;Biomedical Engineering Seminar Series&lt;/div&gt;&lt;small class="day" rel="day"&gt;Monday, March 4th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-04T09:10:00-0600"&gt;9:10 am&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-04T10:10:00-0600"&gt;10:10 am&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Emerging Technologies Building Room:1037&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Jose Lage, professor in the Department of Mechanical Engineering at Southern Methodist University, will discuss characteristics of the alveolar construction and how these characteristics are being considered for implementation in artificial (human-made) convection (heat or mass) systems.&lt;/div&gt;	</description>
+	</item>
+	<item>	<title>Nutrition Seminar Series with Dr. Susanne Talcott</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=04&amp;eventdatetime_id=14373&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=04&amp;eventdatetime_id=14373&amp;</guid>
+	<pubDate>Mon, 04 Mar 2013 11:30:00 -0600</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Monday, March 4th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-04T11:30:00-0600"&gt;11:30 am&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-04T12:20:00-0600"&gt;12:20 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Kleberg Center (KLCT) Room:117&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;&lt;/div&gt;	</description>
+	</item>
+	<item>	<title>2013 Kurt Ritter Lecture in Political Rhetoric</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=04&amp;eventdatetime_id=14992&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=04&amp;eventdatetime_id=14992&amp;</guid>
+	<pubDate>Mon, 04 Mar 2013 16:00:00 -0600</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;Dr. Rosa Eberly, Penn State University&lt;/div&gt;&lt;small class="day" rel="day"&gt;Monday, March 4th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-04T16:00:00-0600"&gt;4:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-04T17:30:00-0600"&gt;5:30 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Evans Library (LIBR) Room:Whitley Suite&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;"Wards of Wordcraft: Anecdotes and Dozy Doats and Liddle Lamzy Divie"&lt;/div&gt;	</description>
+	</item>
+	<item>	<title>Morning Coffee Hour</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=06&amp;eventdatetime_id=14493&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=06&amp;eventdatetime_id=14493&amp;</guid>
+	<pubDate>Wed, 06 Mar 2013 09:00:00 -0600</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Wednesday, March 6th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-06T09:00:00-0600"&gt;9:00 am&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-06T10:00:00-0600"&gt;10:00 am&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Melbern G. Glasscock History Building (HIST) Room:311&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;The Glasscock Center hosts an informal coffee hour every other Wednesday morning during the semester. All are welcome to join us for coffee, tea, pastries, and conversation.&lt;/div&gt;	</description>
+</item>
+	<item>	<title>Teaching Portfolio Workshop</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=06&amp;eventdatetime_id=14043&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=06&amp;eventdatetime_id=14043&amp;</guid>
+	<pubDate>Wed, 06 Mar 2013 13:30:00 -0600</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Wednesday, March 6th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-06T13:30:00-0600"&gt;1:30 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-06T15:00:00-0600"&gt;3:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt; Texas A&amp;M University Room:Henderson Hall 103&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;This session provides faculty with an introduction to the Teaching Portfolio as a tool for documenting professional achievement in teaching. Participants will learn the components of the document and a process for portfolio development. Strategies for collecting, organizing, and presenting teaching-related data will be shared.&lt;/div&gt;	</description>
+	</item>
+	<item>	<title>The Making of a Community: Story of Mueller</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=06&amp;eventdatetime_id=15099&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=06&amp;eventdatetime_id=15099&amp;</guid>
+	<pubDate>Wed, 06 Mar 2013 17:00:00 -0600</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;From a deserted airport site to a sustainable and livable community&lt;/div&gt;&lt;small class="day" rel="day"&gt;Wednesday, March 6th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-06T17:00:00-0600"&gt;5:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Langford Architecture Center - Building B (ARCB) Room:Geren Auditorium&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Jim Adams, AIA, LEED AP, principle of McCann Adams Studio, will Present â€œThe making of A Community: Story of Mueller, Austin, TXâ€ at 5:00 p.m. on Wednesday March 6&lt;/div&gt;	</description>
+	</item>
+	<item>	<title>MSC Town Hall Lunchbox Concert Series Presents Friendly Savages</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=07&amp;eventdatetime_id=14995&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=07&amp;eventdatetime_id=14995&amp;</guid>
+	<pubDate>Thu, 07 Mar 2013 12:00:00 -0600</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Thursday, March 7th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-07T12:00:00-0600"&gt;12:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-07T13:00:00-0600"&gt;1:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Rudder Fountain Plaza&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Come out for a Lunchbox Concert with Friendly Savages, the indie folk rockers from Austin!&lt;/div&gt;	</description>
+	</item>
+	<item>	<title>Urban Transformation of the World and its Environmental Impacts</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=07&amp;eventdatetime_id=14623&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=07&amp;eventdatetime_id=14623&amp;</guid>
+	<pubDate>Thu, 07 Mar 2013 16:00:00 -0600</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Thursday, March 7th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-07T16:00:00-0600"&gt;4:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-07T17:00:00-0600"&gt;5:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Eller Oceanography-Meteorology (O&amp;M) Room:112&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Presented by Dr. Burak Guneralp, Research Assistant Professor, Department of Geography, Texas A&amp;M University&lt;/div&gt;	</description>
+</item>
+	<item>	<title>Glasscock Center Grant Applications Due</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=07&amp;eventdatetime_id=14827&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=07&amp;eventdatetime_id=14827&amp;</guid>
+	<pubDate>Thu, 07 Mar 2013 17:00:00 -0600</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Thursday, March 7th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-07T17:00:00-0600"&gt;5:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Melbern G. Glasscock History Building (HIST)&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Glasscock Faculty Research Fellowship
+      
+Graduate Research Matching Grant
+      
+    Co-sponsorship Grant&lt;/div&gt;	</description>
+</item>
+<item>	<title>Professional MBA Information Session</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=07&amp;eventdatetime_id=12257&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=07&amp;eventdatetime_id=12257&amp;</guid>
+	<pubDate>Thu, 07 Mar 2013 18:30:00 -0600</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Thursday, March 7th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-07T18:30:00-0600"&gt;6:30 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-07T20:30:00-0600"&gt;8:30 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;CITYCENTRE Campus&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;The first step in learning more about the Professional MBA program from Texas A&amp;M's Mays Business School is to attend an information session in Houston. Our information sessions begin with a presentation from our admissions team, and then transition to a question and answer session with a panel of current and former MBA program participants.&lt;/div&gt;	</description>
+</item>
+<item>	<title>"Rabia" starring Sebastian Cordero, 2009</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=07&amp;eventdatetime_id=12594&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=07&amp;eventdatetime_id=12594&amp;</guid>
+	<pubDate>Thu, 07 Mar 2013 19:00:00 -0600</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Thursday, March 7th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-07T19:00:00-0600"&gt;7:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-07T21:00:00-0600"&gt;9:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Academic Building (ACAD) Room:130&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;&lt;/div&gt;	</description>
+</item>
+<item>	<title>Census Data Resources Training for GIS Users</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=08&amp;eventdatetime_id=14656&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=08&amp;eventdatetime_id=14656&amp;</guid>
+	<pubDate>Fri, 08 Mar 2013 09:00:00 -0600</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Friday, March 8th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-08T09:00:00-0600"&gt;9:00 am&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-08T11:30:00-0600"&gt;11:30 am&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Evans Library (LIBR) Room:Evans Annex, Room 116A&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Two free training sessions will be offered by the University Libraries for students, faculty and staff who perform  GIS data analysis.  Registration is required and seating is limited. Participants should register for one session only.&lt;/div&gt;	</description>
+</item>
+<item>	<title>Music, Movement, and Cultural Performance Working Group</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=08&amp;eventdatetime_id=15079&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=08&amp;eventdatetime_id=15079&amp;</guid>
+	<pubDate>Fri, 08 Mar 2013 11:45:00 -0600</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Friday, March 8th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-08T11:45:00-0600"&gt;11:45 am&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-08T13:00:00-0600"&gt;1:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Melbern G. Glasscock History Building (HIST) Room:311&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;&lt;/div&gt;	</description>
+</item>
+<item>	<title>Full-Time MBA Virtual Information Session</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=12&amp;eventdatetime_id=12300&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=12&amp;eventdatetime_id=12300&amp;</guid>
+	<pubDate>Tue, 12 Mar 2013 20:00:00 -0500</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Tuesday, March 12th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-12T20:00:00-0500"&gt;8:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-12T21:00:00-0500"&gt;9:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Webinar&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;The Texas A&amp;M University Full-Time MBA program holds monthly virtual information sessions and we invite you to join us. Each session is theme-based and you can determine which topics you are most interested in and register for one or more sessions. During the online events, learn more about the Full-Time MBA program, including information about curriculum, structure, and admissions. You will also have the opportunity to ask questions and interact with our admissions team.&lt;/div&gt;	</description>
+</item>
+<item>	<title>Nutrition Seminar Series with Dr. Naima Moustaid-Moussa</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=18&amp;eventdatetime_id=14374&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=18&amp;eventdatetime_id=14374&amp;</guid>
+	<pubDate>Mon, 18 Mar 2013 11:30:00 -0500</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Monday, March 18th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-18T11:30:00-0500"&gt;11:30 am&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-18T12:20:00-0500"&gt;12:20 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Kleberg Center (KLCT) Room:117&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Dr. Naima Moustaid-Moussa from the College of Human Sciences at Texas Tech University will present, "Dietary and endocrine regulation of adipose tissue inflammation in obesity and insulin resistance"&lt;/div&gt;	</description>
+</item>
+<item>	<title>Computer Science and Engineering Seminar with Dr. Xiaohu Guo</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=18&amp;eventdatetime_id=15090&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=18&amp;eventdatetime_id=15090&amp;</guid>
+	<pubDate>Mon, 18 Mar 2013 16:10:00 -0500</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Monday, March 18th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-18T16:10:00-0500"&gt;4:10 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-18T17:25:00-0500"&gt;5:25 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Bright (H.R.) Building (HRBB) Room:124&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Please join us as Xiaohu Guo, Associate Professor in the Department of Computer Science at the University of Texas at Dallas presents his talk "Physics-Based Multi-Domain Subspace Deformation."&lt;/div&gt;	</description>
+</item>
+<item>	<title>Derivative Territories</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=18&amp;eventdatetime_id=15036&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=18&amp;eventdatetime_id=15036&amp;</guid>
+	<pubDate>Mon, 18 Mar 2013 17:30:00 -0500</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;College of Architecture Lecture Series&lt;/div&gt;&lt;small class="day" rel="day"&gt;Monday, March 18th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-18T17:30:00-0500"&gt;5:30 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-18T19:00:00-0500"&gt;7:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Langford Architecture Center - Building B (ARCB) Room:Geren Auditoriom&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Luis Callejas, founder of LCLA OFFICE, an architecture studio and international research platform based in Medellin, Colombia, will present â€œDerivative Territoriesâ€ at 5:30 p.m. Monday, March 4.&lt;/div&gt;	</description>
+</item>
+<item>	<title>Professional MBA Virtual Information Session</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=19&amp;eventdatetime_id=12289&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=19&amp;eventdatetime_id=12289&amp;</guid>
+	<pubDate>Tue, 19 Mar 2013 12:00:00 -0500</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Tuesday, March 19th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-19T12:00:00-0500"&gt;12:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-19T13:00:00-0500"&gt;1:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Webinar&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;If you are unable to attend one of our meetings at CITYCENTRE, we invite you to join us virtually for an online information session. During the session, you'll hear an overview of the Professional MBA program, including information about curriculum, structure, and admissions. You will also have the opportunity to ask questions and interact with our admissions team.&lt;/div&gt;	</description>
+</item>
+<item>	<title>Air Pollution Exposure and Physical Activity in Transportation Corriders</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=19&amp;eventdatetime_id=15081&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=19&amp;eventdatetime_id=15081&amp;</guid>
+	<pubDate>Tue, 19 Mar 2013 16:00:00 -0500</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;Transportation Planning Lecture&lt;/div&gt;&lt;small class="day" rel="day"&gt;Tuesday, March 19th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-19T16:00:00-0500"&gt;4:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-19T17:00:00-0500"&gt;5:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Langford Architecture Center - Building B (ARCB) Room:The Exhibit Hall&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Douglas Houston, assistant professor of planning, policy and design at the University of California-Los Angeles, who focuses on the environmental and health implications of urban development and transportation systems, will present a public lecture at 4 p.m. March 19, 2013 in the Langford B exhibit hall.&lt;/div&gt;	</description>
+</item>
+<item>	<title>Film Screening of "Saviors in the Night (Unter Bauern)"</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=20&amp;eventdatetime_id=14074&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=20&amp;eventdatetime_id=14074&amp;</guid>
+	<pubDate>Wed, 20 Mar 2013 14:30:00 -0500</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;Film Screening and Q&amp;A with director Ludi Boeken&lt;/div&gt;&lt;small class="day" rel="day"&gt;Wednesday, March 20th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-20T14:30:00-0500"&gt;2:30 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-20T17:30:00-0500"&gt;5:30 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Memorial Student Center (MSC) Room:2400&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Saviors in the Night (Unter Bauern)
+
+Directed by Ludi Boeken
+Based on the Best-selling Memoir "Retter in der Nacht" by Marga Spiegel
+
+Q&amp;A with director Ludi Boeken will follow the film.
+
+Saviors in the Night (2011) is based on the best-selling memoirs of Holocaust survivor, Marga Spiegel. In 1965 Speigel published a narrative of her memories of the courageous farmers in MÃ¼nsterland, Germany who hid Spiegel and her family during Nazi occupation from 1943-1945. The Aschoff family provided protection and risked everything to protect their neighbors from deportation and certain death. Saviors in the Night honors these silent heroes by telling the story of survival and humanity.&lt;/div&gt;	</description>
+</item>
+<item>	<title>Manifest Destiny: A Guide to the Essential Indifference of American Suburban Housing</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=20&amp;eventdatetime_id=14562&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=20&amp;eventdatetime_id=14562&amp;</guid>
+	<pubDate>Wed, 20 Mar 2013 17:30:00 -0500</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;Department of Architecture Lecture Series&lt;/div&gt;&lt;small class="day" rel="day"&gt;Wednesday, March 20th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-20T17:30:00-0500"&gt;5:30 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-20T19:00:00-0500"&gt;7:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Langford Architecture Center - Building B (ARCB) Room:Geren Auditorium&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Jason Griffiths, partner with Gino Griffiths Architects in Scottsdale, Ariz. and assistant professor of architecture at the Herberger Institute of Design and the Arts at Arizona State University will discuss his book, "Manifest Destiny: A Guide to the Essential Indifference of American Suburban Housing."&lt;/div&gt;	</description>
+</item>
+<item>	<title>MSC OPAS Presents... Ann Hampton Callaway Sings the Streisand Songbook</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=20&amp;eventdatetime_id=11380&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=20&amp;eventdatetime_id=11380&amp;</guid>
+	<pubDate>Wed, 20 Mar 2013 18:00:00 -0500</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;Sponsored by: Better Homes &amp; Gardens Real Estate, First Victoria Bank &amp; Sterling Auto Group&lt;/div&gt;&lt;small class="day" rel="day"&gt;Wednesday, March 20th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-20T18:00:00-0500"&gt;6:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-20T22:00:00-0500"&gt;10:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Miramont Country Club Room:Ball Room&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Platinum Award Winning singer-songwriter ANN HAMPTON CALLAWAY celebrates the music of one of America's most powerful and enduring artists. Singing timeless classics from five decades of Barbra Streisand's multi-faceted career, Callaway crafts a loving musical portrait of the iconic diva. The Tony-nominated actress puts a unique spin on unforgettable songs from Barbra's Broadway years (Funny Girl) to her film works (A Star Is Born), from her early pop albums (People) to her later concept albums (Higher Ground), which debuted at No. 1 on Billboard and featured Ann's original peace anthem "At The Same Time." Callaway promises us a performance that not only celebrates the extraordinary career of Barbra Streisand, but also reminds us of "the way we were."
+
+To purchase tickets visit MSCOPAS.org or call 979-845-1234.&lt;/div&gt;	</description>
+</item>
+<item>	<title>Film Screening of "La Rafle (The Roundup)"</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=20&amp;eventdatetime_id=14075&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=20&amp;eventdatetime_id=14075&amp;</guid>
+	<pubDate>Wed, 20 Mar 2013 19:00:00 -0500</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;Film Screening and Q&amp;A&lt;/div&gt;&lt;small class="day" rel="day"&gt;Wednesday, March 20th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-20T19:00:00-0500"&gt;7:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-20T22:00:00-0500"&gt;10:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Memorial Student Center (MSC) Room:2400&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Written and Directed by Rose Bosch.Starring Jean Reno, MÃ©lanie Laurent, Gad Elmaleh, and RaphÃ¤elle AgoguÃ©.Produced by Ilan Goldman.
+Q&amp;A will follow the film with French journalist Annette Levy-Willard and Glasscock Center director Richard J. Golsan.
+La Rafle (2012), directed by Rose Bosch, is a true account of the events of the 1942 "Velâ€™ d'Hiv Roundup" of French Jews, starring Jean Reno and MÃ©lanie Laurent. In the summer of 1942 Hitler orders the French government to round up its Jewish citizens to be sent to the extermination camps. This film depicts Jewish families living their lives as best they can in Paris amidst the rumors that they will soon be sent East. â€œWith a meticulously constructed script based on extensive research and first-hand accounts, writer/director Rose Bosch brings to the screen one of the most moving dramas of the yearâ€ (Menemsha Films).&lt;/div&gt;	</description>
+</item>
+<item>	<title>Executive MBA Virtual Information Session</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=21&amp;eventdatetime_id=12281&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=21&amp;eventdatetime_id=12281&amp;</guid>
+	<pubDate>Thu, 21 Mar 2013 12:00:00 -0500</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Thursday, March 21st&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-21T12:00:00-0500"&gt;12:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-21T13:00:00-0500"&gt;1:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Webinar&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;If you are unable to attend one of our meetings at CITYCENTRE, we invite you to join us virtually for an online information session. During the session, you'll hear an overview of the Executive MBA Program, including information about curriculum, structure, and admissions. You will also have the opportunity to ask questions and interact with our admissions team.&lt;/div&gt;	</description>
+</item>
+<item>	<title>SIIA International Affairs Seminar - Dr. Vigi Vijayalakshmi</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=21&amp;eventdatetime_id=14985&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=21&amp;eventdatetime_id=14985&amp;</guid>
+	<pubDate>Thu, 21 Mar 2013 12:20:00 -0500</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;â€œIndo-U.S. Strategic Partnership: Issues, Challenges, Trendsâ€&lt;/div&gt;&lt;small class="day" rel="day"&gt;Thursday, March 21st&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-21T12:20:00-0500"&gt;12:20 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-21T13:20:00-0500"&gt;1:20 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Allen Building  (ALLN) Room:1110&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Dr. Vigi Vijayalakshmi,Bush School Visiting Fulbright Scholar, School of International Studies, Jawaharla Nehru University, will present her thoughts on the India &amp; U.S. Strategic Partnership.  RSVP Required.  To RSVP call 979-458-8015.&lt;/div&gt;	</description>
+</item>
+<item>	<title>MSC OPAS Presents... Ann Hampton Callaway Sings the Streisand Songbook</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=21&amp;eventdatetime_id=11381&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=21&amp;eventdatetime_id=11381&amp;</guid>
+	<pubDate>Thu, 21 Mar 2013 18:00:00 -0500</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;Sponsored by: Better Homes &amp; Gardens Real Estate, First Victoria Bank &amp; Sterling Auto Group&lt;/div&gt;&lt;small class="day" rel="day"&gt;Thursday, March 21st&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-21T18:00:00-0500"&gt;6:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-21T22:00:00-0500"&gt;10:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Miramont Country Club Room:Ballroom&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Platinum Award Winning singer-songwriter ANN HAMPTON CALLAWAY celebrates the music of one of America's most powerful and enduring artists. Singing timeless classics from five decades of Barbra Streisand's multi-faceted career, Callaway crafts a loving musical portrait of the iconic diva. The Tony-nominated actress puts a unique spin on unforgettable songs from Barbra's Broadway years (Funny Girl) to her film works (A Star Is Born), from her early pop albums (People) to her later concept albums (Higher Ground), which debuted at No. 1 on Billboard and featured Ann's original peace anthem "At The Same Time." Callaway promises us a performance that not only celebrates the extraordinary career of Barbra Streisand, but also reminds us of "the way we were."
+
+To purchase tickets visit MSCOPAS.org or call 979-845-1234.&lt;/div&gt;	</description>
+</item>
+<item>	<title>Hot Topics in Higher Education</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=22&amp;eventdatetime_id=14232&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=22&amp;eventdatetime_id=14232&amp;</guid>
+	<pubDate>Fri, 22 Mar 2013 08:30:00 -0500</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;Making a Difference in Veterinary Medicine&lt;/div&gt;&lt;small class="day" rel="day"&gt;Friday, March 22nd&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-22T08:30:00-0500"&gt;8:30 am&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-22T10:00:00-0500"&gt;10:00 am&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;General Services Complex (GSC) Room:Assembly Room A&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Coffee Conversations: Hot Topics in Higher Education gives participants the opportunity to hear from campus experts about topics currently making news and how they impact employees at Texas A&amp;M. To register visit http://EODinfo.tamu.edu/ and select Course Schedule.&lt;/div&gt;	</description>
+</item>
+<item>	<title>14th Annual Ecological Integration Symposium</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=22&amp;eventdatetime_id=14442&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=22&amp;eventdatetime_id=14442&amp;</guid>
+	<pubDate>Fri, 22 Mar 2013 09:00:00 -0500</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;From Theory to Practice: Ecology and its Application&lt;/div&gt;&lt;small class="day" rel="day"&gt;Friday, March 22nd&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-22T09:00:00-0500"&gt;9:00 am&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-22T17:00:00-0500"&gt;5:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Memorial Student Center (MSC) Room:3rd Floor Ballroom&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;In this free annual event a diverse array of renowned scientists come together to speak about ecology, evolutionary biology, and conservation. We also host a student symposium, where undergraduate and graduate students present their research.&lt;/div&gt;	</description>
+</item>
+<item>	<title>Trends in Pediatric Health Care Facilities Design</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=22&amp;eventdatetime_id=14244&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=22&amp;eventdatetime_id=14244&amp;</guid>
+	<pubDate>Fri, 22 Mar 2013 11:30:00 -0500</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;Arch for Health lecture series&lt;/div&gt;&lt;small class="day" rel="day"&gt;Friday, March 22nd&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-22T11:30:00-0500"&gt;11:30 am&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Langford Architecture Center - Building C (ARCC) Room:105&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Trends in Pediatric Health Care Facilities Design, a presentation by Ed Huckaby, senior planning consultant at FKP, is slated for 11:30 a.m. Friday, March 22 in Langford C105 as part of the Center for Health Systems &amp; Design's Spring 2013 Architecture-for-Health Lecture Series examining "Issues and Trends in the Design of Children's Health and Hospital Facilities."&lt;/div&gt;	</description>
+</item>
+<item>	<title>Faculty Teaching Academy</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=22&amp;eventdatetime_id=12470&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=22&amp;eventdatetime_id=12470&amp;</guid>
+	<pubDate>Fri, 22 Mar 2013 12:00:00 -0500</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;Wendy Jepson, Associate Professor, Geography&lt;/div&gt;&lt;small class="day" rel="day"&gt;Friday, March 22nd&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-22T12:00:00-0500"&gt;12:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-22T13:30:00-0500"&gt;1:30 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt; Texas A&amp;M University Room:301 Rudder Tower&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Are you looking for a professional development activity related to teaching that is accessible and convenient? The Faculty Teaching Academy (FTA)currently in its seventh year allows you to hear from colleagues from a variety of disciplines who have distinguished themselves as teachers at Texas A&amp;M University. The FTA is designed to give you the opportunity to hear and see how your peers approach teaching and learning and gain ideas you can use in your own classrooms. The sessions are highly interactive and informal. The program encourages you to schedule a classroom visit to see these recognized teachers in action. A certificate of completion is also available for your records. Our founder, Professor Jeff Conant, described the FTA as an inspiration and believed that inspired teachers are more likely to inspire learners. Interested? Space is limited. Certificate requirements Attend 4 FTA sessions, observe 3 FTA presenters.&lt;/div&gt;	</description>
+</item>
+<item>	<title>MSC OPAS Presents... Ann Hampton Callaway Sings the Streisand Songbook</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=22&amp;eventdatetime_id=11382&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=22&amp;eventdatetime_id=11382&amp;</guid>
+	<pubDate>Fri, 22 Mar 2013 18:00:00 -0500</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;Sponsored by: Better Homes &amp; Gardens Real Estate, First Victoria Bank &amp; Sterling Auto Group&lt;/div&gt;&lt;small class="day" rel="day"&gt;Friday, March 22nd&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-22T18:00:00-0500"&gt;6:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-22T22:00:00-0500"&gt;10:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Miramont Country Club Room:Ballroom&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Platinum Award Winning singer-songwriter ANN HAMPTON CALLAWAY celebrates the music of one of America's most powerful and enduring artists. Singing timeless classics from five decades of Barbra Streisand's multi-faceted career, Callaway crafts a loving musical portrait of the iconic diva. The Tony-nominated actress puts a unique spin on unforgettable songs from Barbra's Broadway years (Funny Girl) to her film works (A Star Is Born), from her early pop albums (People) to her later concept albums (Higher Ground), which debuted at No. 1 on Billboard and featured Ann's original peace anthem "At The Same Time." Callaway promises us a performance that not only celebrates the extraordinary career of Barbra Streisand, but also reminds us of "the way we were."
+
+To purchase tickets visit MSCOPAS.org or call 979-845-1234.&lt;/div&gt;	</description>
+</item>
+<item>	<title>Nutrition Seminar Series with Dr. Sarah Veatch</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=25&amp;eventdatetime_id=14375&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=25&amp;eventdatetime_id=14375&amp;</guid>
+	<pubDate>Mon, 25 Mar 2013 11:30:00 -0500</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Monday, March 25th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-25T11:30:00-0500"&gt;11:30 am&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-25T12:20:00-0500"&gt;12:20 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Kleberg Center (KLCT) Room:117&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Dr. Sarah Veatch from the University of Michigan will present, "Lipid rafts reach a critical pointâ€.&lt;/div&gt;	</description>
+</item>
+<item>	<title>The Impact of Physical, Chemical and Biological Processes on the Fate of Oil Spills</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=25&amp;eventdatetime_id=15211&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=25&amp;eventdatetime_id=15211&amp;</guid>
+	<pubDate>Mon, 25 Mar 2013 16:00:00 -0500</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Monday, March 25th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-25T16:00:00-0500"&gt;4:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-25T17:00:00-0500"&gt;5:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Eller Oceanography-Meteorology (O&amp;M) Room:112&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Edward J. Buskey
+Professor &amp; Interim Chair, Department of Marine Sciences
+Research Coordinator, Mission-Aransas National Estuarine
+Research Reserve
+Director, Gulf of Mexico Research Initiative DROPPS
+Consortium
+Marine Sciences Institute, Port Aransas
+The University of Texas at Austin&lt;/div&gt;	</description>
+</item>
+<item>	<title>International Student Workshop: Business Correspondence (3/25/13)</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=25&amp;eventdatetime_id=15118&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=25&amp;eventdatetime_id=15118&amp;</guid>
+	<pubDate>Mon, 25 Mar 2013 19:00:00 -0500</pubDate>
+	<description>
+		&lt;small class="day" rel="day"&gt;Monday, March 25th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-25T19:00:00-0500"&gt;7:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-25T20:00:00-0500"&gt;8:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt;Evans Library (LIBR)&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Consultants from the University Writing Center will explain some of the conventions of communicating in the American workforce. We'll discuss how to conduct yourself professionally, whether you're writing an email, a cover letter, or a thank you note. Gain confidence in presenting yourself professionally to colleagues and co-workers. Great information for job-seekers, as well as those already employed.&lt;/div&gt;	</description>
+</item>
+<item>	<title>Cross-Cultural Communication Workshop</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=28&amp;eventdatetime_id=13912&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=28&amp;eventdatetime_id=13912&amp;</guid>
+	<pubDate>Thu, 28 Mar 2013 14:30:00 -0500</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;Student Employment Office&lt;/div&gt;&lt;small class="day" rel="day"&gt;Thursday, March 28th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-28T14:30:00-0500"&gt;2:30 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-28T16:00:00-0500"&gt;4:00 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt; Texas A&amp;M University Room:106&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;In this highly interactive workshop you will learn how cultural values, gestures and conversation styles vary, and how they interfere with understanding. You will also learn strategies to improve your communication skills with people around the world.&lt;/div&gt;	</description>
+</item>
+<item>	<title>"From the Life of the Marionettes" FREE film screening</title>
+	<link>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=28&amp;eventdatetime_id=15155&amp;</link>
+        <guid>http://calendar.tamu.edu/?&amp;y=2013&amp;m=03&amp;d=28&amp;eventdatetime_id=15155&amp;</guid>
+	<pubDate>Thu, 28 Mar 2013 20:00:00 -0500</pubDate>
+	<description>
+		&lt;div class="subtitle" rel="subtitle"&gt;A Film by Ingmar Bergman&lt;/div&gt;&lt;small class="day" rel="day"&gt;Thursday, March 28th&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-28T20:00:00-0500"&gt;8:00 pm&lt;/abbr&gt;&lt;/small&gt;-&lt;small&gt;&lt;abbr class="dtend" rel="dtend" title="2013-03-28T21:55:00-0500"&gt;9:55 pm&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt; Texas A&amp;M University Room:HECC 209&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;A free screening of Ingmar Bergman's harrowing 1980 drama about murder and madness in the context of a modern marriage follows Dr. Daniel Humphrey's 7PM lecture on that director.  A short discussion will then follow the screening. (This film has been rated "R" by the Motion Picture Association of America. It is not recommended for children or adults who might be bothered by violence and sexuality on screen.)&lt;/div&gt;	</description>
+</item>
+
+    </channel>
+</rss>
