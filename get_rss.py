@@ -7,7 +7,7 @@ def generate_training_data():
     Return list of documents, in which each document is a dict {'Contents' : '', 'Title' : ''},
     and list of labels (1 : food, 2 : movie, 3 : seminer, 4 : workshop, 5 : music)
     '''
-    d = feedparser.parse(r'test.txt')
+    d = feedparser.parse(r'./Training_data/test.txt')
     documents = []
     for i in range(len(d.entries)):
         tmp_dict = {}
