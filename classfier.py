@@ -35,7 +35,11 @@ class classifier:
         self.test_text = []
         #a classification vector for the training docs;
         #it will be given by the data parsing step
-        self.train_vec = [] 
+        self.train_vec = []
+        #self.test_vec is initially empty
+        self.test_vec = []
+        self.total_docs = len(self.train_text) + len(self.text_text)
+
         
     def test_func(self):
         print "test succeed!"
@@ -74,7 +78,7 @@ class classifier:
             vector = []
             for term in self.total_terms:
                 if term in self.doc_words[docID]:
-                    vector.append(self.tf_idf(self.tfIndex[term][docID], self.dfIndex[term], self.totalDocs))
+                    vector.append(self.tf_idf(self.tf_index[term][docID], self.df_index[term], self.total_docs))
                 else:
                     vector.append(0)
             mag = 0
@@ -82,16 +86,52 @@ class classifier:
                 mag += math.pow(i, 2)
             mag = sqrt(mag)
             self.doc_vector[docID] = array(vector)/mag   #does sklearn svm accept numpy array? or only list??? ---make sure!!!
-    def svm_train(self):
-        """use svm in sklearning to train the classifier"""
-        pass
-        
-    def svm_test_one_doc(self):
+    def svm_train_linear(self):
+        """use svm in sklearning to train the classifier; kernel = 'linear'"""
+        svc = svm.SVC(kernel = 'linear')
+        svc = fit(self.doc_vector, self.train_vec)
+        return svc
+    def svm_train_polynomial(self):
+        """use svm in sklearning to train the classifier; kernel = 'linear'"""
+        svc = svm.SVC(kernel = 'poly', degree = 3) #degree: polynomial degree
+        svc = fit(self.doc_vector, self.train_vec)
+        return svc
+    def svm_train_rbf(self):
+        """use svm in sklearning to train the classifier; kernel = 'linear'"""
+        svc = svm.SVC(kernel = 'rbf') #gamma: inverse of size of radial kernel
+        svc = fit(self.doc_vector, self.train_vec)
+        return svc
+    def svm_test_one_doc(self, doc, svc):
         """given a test document, parse it for tf and idf, classify it with svm and return its class"""
-        pass
-    def svm_test(self):
-        """given a vector for a document; classify it as "food, seminar or movie"""
-        pass
+        #doc = {'title':'some title', 'content':some contents}
+        tf = {}
+        vector = []
+        text = doc['title'] + doc['contents']
+        words = self.getTerms(text)
+        for word in words:
+            try:
+                tf[word] += 1
+            except:
+                tf[word] = 1
+        for term in self.total_terms:
+            if term in words:
+                vector.append(self.tf_idf(tf[term], self.df_index[term], self.total_docs))
+            else:
+                vector.append(0)
+        mag = 0
+        for i in vector:
+            mag += math.pow(i, 2)
+        mag = sqrt(mag)
+        vector = array(vector)/mag
+        group = svc.predict(vector)
+        return group
+        
+    def svm_test(self, svc):
+        """given a vector of document; classify it as "food, seminar or movie"""
+        for doc in self.test_text:
+            self.test_vec.append(self.svm_test_one_doc(doc,svc))
+            
+        
 def main():
     c1 = classifier()
     c1.test_func()
