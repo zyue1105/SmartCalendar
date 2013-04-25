@@ -1,0 +1,6 @@
+1. One email contains multiple events
+2. Categories: seminar, movie, food
+3. Given an arbitrary document, d, determine whether d contains information about an event in our categories,
+   and if so, return an array of correctly-associated information about each event (date/time, location).
+4. food-bot also uses calendar event
+5. Source of event

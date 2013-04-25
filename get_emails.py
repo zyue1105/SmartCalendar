@@ -1,8 +1,6 @@
 import email
 import getpass
 import imaplib
-import os
-import sys
 
 detach_dir = '.' # directory where to save attachments (default current)
 #user = raw_input('Enter youe Gmail username: ')
@@ -44,3 +42,4 @@ for emailid in items:
     curr_mail['Content'] = mail.get_payload()
 
     emails.append(curr_mail)
+
