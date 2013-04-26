@@ -15,8 +15,12 @@ def generate_training_data():
         # parse HTML
         html_doc = d.entries[i].description    
         soup = BeautifulSoup(html_doc)
-        # find the contents    
-        tmp_dict['Content'] = soup.find('div', class_='summary').string    
+        # find the contents
+        summary = soup.find('div', class_='summary')
+        if summary != None:
+            tmp_dict['Content'] = summary.string
+        else:
+            tmp_dict['Content'] = html_doc        
                 
         documents.append(tmp_dict)
 
@@ -50,7 +54,7 @@ def generate_test_data():
             soup = BeautifulSoup(html_doc)
             # print soup.prettify()        
             # find the contents    
-            tmp_dict['Content'] = soup.find('div', class_='summary').string    
+            tmp_dict['Content'] = soup.find('div', class_='summary').string                
             
             #print tmp_dict
             documents.append(tmp_dict)

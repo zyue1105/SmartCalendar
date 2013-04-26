@@ -1,6 +1,11 @@
 无关event 0
+
 food 1
 movie 2
+
+
+
+
 seminer 3
 workshop 4
 music 5(3月6日之前的没有label这一项)

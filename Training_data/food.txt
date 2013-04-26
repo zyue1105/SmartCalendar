@@ -1,0 +1,394 @@
+<rss version="2.0">
+    <channel>
+        <title>Texas A&amp;M University Calendar Events</title>
+        <link>http://calendar.tamu.edu/?&amp;</link>
+        <description>Events for Texas A&amp;M University Calendar</description>
+        <language>en-us</language>
+        <generator>UNL_UCBCN_Frontend-3.0</generator>
+        <lastBuildDate>Sat, 20 Apr 2013 04:26:59 -0500</lastBuildDate>
+		<description>&lt;small class="day" rel="day"&gt;Friday, March 1st&lt;/small&gt; | &lt;small&gt;&lt;abbr class="dtstart" rel="dtstart" title="2013-03-01T00:00:00-0600"&gt;All day&lt;/abbr&gt;&lt;/small&gt; | &lt;small class="location" rel="location"&gt; Texas A&amp;M University&lt;/small&gt;&lt;div class="summary" rel="summary"&gt;Last day for Master's Non-Thesis students degree plan to be approved by the Office of Graduate Studies if graduating in August 2013.&lt;/div&gt;</description>
+		
+<item>
+	<title>Media and Revolution in the Arab Spring</title>
+	<description>
+	The Center for the Arts in Society presents the film screening of Fragments of a Revolution part of the CMU International Film Festival. The screening will include an art presentation by CMU MFA student Felipe Castelblanco and Iranian poet Nima Dehghani and a reception provided by Conflict Kitchen and Margarets Fine Imports. 	
+	</description>
+</item>
+
+<item>
+	<title>Media and Revolution in the Arab Spring</title>
+	<description>
+	The Center for the Arts in Society presents the film screening of Fragments of a Revolution part of the CMU International Film Festival. The screening will include an art presentation by CMU MFA student Felipe Castelblanco and Iranian poet Nima Dehghani and a reception provided by Conflict Kitchen and Margarets Fine Imports. 	
+	</description>
+</item>
+
+<item>
+	<title>MSE Seminar: Xudong Wang</title>
+	<description>	
+	Speaker: Xudong Wang University of Wisconsin 
+	Refreshments will be served at 9:00 AM in 4325 Wean Hall. Event Website 
+	</description>
+</item>
+
+<item>
+	<title>I Scream for Ice Cream</title>
+	<description>	
+	Free ice cream. First come, first serve!
+	</description>
+</item>
+
+<item>
+	<title>Internships: The Inside Scoop</title>
+	<description>	
+	Free ice cream at Internships: the Inside Scoop Rangos Hall at 5pm
+	</description>
+</item>
+
+<item>
+	<title>Zynga Tech Talk</title>
+	<description>	
+	Come hear Carnegie Mellon alumnus Bruce Sherrod distinguished engineer at Zynga talk about the technical challenges engineers are facing at his company. Free food and swag will be available. 
+Zynga is hiring for full-time software engineers and software engineer interns. Bring a resume or apply online. Bring your resume for a chance to win an iPad. Event Website 
+	</description>
+</item>
+<item>
+	<title>Google TG</title>
+	<description>	
+	Google will be sending their chefs over with food and buying us other
+refreshments for a TG TODAY, October 19. No need to search this time
+-- they'll be on campus, in the NSH atrium.
+	</description>
+</item>
+
+<item>
+	<title>Meet, Mix, and Mingle (M3)</title>
+	<description>
+Are you having trouble deciding your engineering major or what to take for your second intro course next spring? Do you want to network with CIT faculty and upper-classmen? The Meet Mix and Mingle event is a great opportunity to get advice from and speak to representatives from the CIT departments. Food will be provided. No RSVP is necessary. 	
+	</description>
+</item>
+
+<item>
+	<title>BME Seminar: Edward Leonard</title>
+	<description>	
+	Speaker: Edward Leonard Ph.D. Columbia University 
+Coffee and snacks are served at 4:00 p.m. in the Doherty Hall 2100 Conference Room where students may meet the speaker
+	</description>
+</item>
+
+<item>
+	<title>Seminar by White House Deputy Director for the Domestic Policy Council</title>
+	<description>
+Speaker:  Mr. Dan Utech White House Deputy Director for the Domestic Policy Council Office of Energy and Climate Change 
+
+The Energy Institute for Innovation cordially invites you to spend an hour learning about the White House Administrations energy policies with time for questions at the end of the presentation. Light refreshments will be provided. 	
+	</description>
+</item>
+
+<item>
+	<title>Ballroom Rush, free food</title>
+	<description>	
+	Want a taste of a little of everything? Come to Ballroom Rush!! There will be free food and sample lessons along with fun games and an opportunity to meet cool new people! at the UC Rangos. This is happening the first two weeks of class: Monday and Wednesday of each week. August 27th August 29th September 3rd and September 5th starting at 7:30 PM and ending at 9:00 PM. 
+
+Come meet new people have fun and nom! Bring your friends and enjoy the rush~ :)
+	</description>
+</item>
+
+<item>
+	<title>The Architect, The Innovator & the Dreamer: A University Lecture Series kickoff</title>
+	<description>	
+	Goil Amornvivat (A96) Josh Debner (E11) Alecia Shipman (HNZ10) wil discuss top design integrated multimedia and ice cream to help inspire 
+
+students for the first day of class with stories of creativity and innovation and the reflections of those whose hearts are so very much in the work.
+	</description>
+</item>
+
+<item>
+	<title>CEE Alumni Reception at Spring Carnival</title>
+	<description>	
+	Please contact Andrea Francioni Rooney Director of Alumni Relations for more information about this and other alumni events. 
+	</description>
+</item>
+
+<item>
+	<title>OUT for Work: Meet and Greet with LGBTQ Students</title>
+	<description>	
+	Need a break from studying? OUT for Work is coming to campus Tuesday, May 8 to meet with LGBTQ students! Free snacks and refreshments will be provided! See below for more information.
+
+Riley Folds, the Executive Director of OUT for Work, will share with students information about OUT for Work and the resources available to them through the Career and Professional Development Center’s (CPDC) recent certification. The CPDC has recognized that LGBTQ students have unique career needs, and received certification in February 2012 as a career center that provides career information, tools, resources, and programs to LGBTQ students.
+
+Riley will also be answering questions about students’ career development, including their resume writing, internship and job search, and how to locate inclusive work environments. OUT for Work is the only national non-profit organization dedicated to educating, preparing, and empowering LGBTQ college students for the workplace. Register for this event via TartanTRAK. RSVP not required to attend.
+	</description>
+</item>
+
+<item>
+	<title>Celebration of Education Award Ceremony</title>
+	<description>	
+	A Celebration of Education recognizes the accomplishments of 
+faculty who exemplify the universitys standards of excellence in 
+education. This event celebrates our distinguished faculty members for 
+their outstanding contributions to the university and their devotion to 
+and effectiveness in teaching. A Celebration of Education consists of 
+five main awards: 
+The Ryan Award The Barbara Lazarus Award and The Gelfand Award 
+presented annually and The Doherty Award and The Academic Advising 
+Award given every other year. In addition the most recent recipients 
+of the College Teaching Awards the Graduate Student Teaching Award and 
+the Graduate Student Service Award are also honored. 
+INI Director Dena Haritos Tsamitis will be receiving the Barbara Lazarus Award this year. 
+  
+Event Schedule 
+ Reception: 4:30 p.m. 
+Awards Presentation: 5:00 p.m.
+	</description>
+</item>
+
+<item>
+	<title>Slice of Life Young Alumni Panel: Focus on Entrepreneurs</title>
+	<description>	
+	Technology and innovation. Design and development. Start-ups and small businesses. You have the next great idea but do you have with it takes to turn it into a successful product? Four young alumni speak about their entrepreneurial experiences across diverse industries: finance entertainment statistics and green energy. Hear their successes and failures and how Carnegie Mellon played a role in how they got where they are today. This panel is free for CMU students and alumni. Light refreshments will be available. Doors open at 6 p.m. To register or see the list of young alumni panelists visit alumni.cmu.edu/slice 
+	</description>
+</item>
+
+<item>
+	<title>Knowledge and Noms topic is Bystander Behavior</title>
+	<description>	
+	Attend a workshop on helpful bystander behavior. How should you react when you see something offensive occurring? Light snacks provided. 
+	</description>
+</item>
+
+<item>
+	<title>Texas Graduate Christian Fellowship holds Bible study</title>
+	<description>		
+	Join Texas Graduate Christian Fellowship for weekly dinner and Bible study. All graduate students are welcome. 
+	</description>
+</item>
+
+<item>
+	<title>Energy innovation investing is UT Energy Symposium topic</title>
+	<description>	
+	Bob Metcalfe presents Investing in Energy Innovation at this weeks meeting of the UT Energy Symposium. Metcalfe is professor of innovation and Murchison Fellow of Free Enterprise in the Cockrell School of Engineering at UT Austin. Cookies served at 5 p.m. 
+	</description>
+</item>
+
+<item>
+	<title>Turkic Spring Festival held</title>
+	<description>		
+Join the Turkic Cultures Student Association in celebrating Turkic cultures at the annual spring festival. Enjoy traditional Turkish and Kazakh music and dance taste traditional foods and take pictures with the Sultans and Khans. Co-sponsored by Raindrop Turkish House. 
+	</description>
+</item>
+
+
+<item>
+	<title>Entrepreneurship Live presents Hemi Thaker, Anue Systems</title>
+	<description>	
+	
+Entrepreneurship Live presents Hemi Thaker of Anue Systems. Thaker was named Ernst and Young Enterpreneur of the Year 2011 in Central Texas for his passion for solving complex customer problems using leading-edge technology. Food and drink reception follows the talk. 
+	</description>
+</item>
+
+<item>
+	<title>University Investors Association hosts guest from KPMG</title>
+	<description>	
+	
+The University Investors Association hosts guest speakers from KPMG Corporate Finance. University Investors is a holistic finance organization that aims to educate the university community about investment vehicles and the companies that utilize them. Investment banking commercial banking private equity wealth management and trading form the core of our focus. Pizza served. 
+	</description>
+</item>
+
+<item>
+	<title>University Flying Club meets</title>
+	<description>		
+Students who are interested in aviation becoming a pilot or simply enjoy travel are invited to join the University Flying Club at this meeting. All are welcome. Free pizza served. 
+	</description>
+</item>
+
+<item>
+	<title>Sustainable Business and Social Enterprise Summit held</title>
+	<description>	
+	
+The Sustainable Business and Social Enterprise Summit is an inspiring evening of mini-lectures and panels presented by professionals from a wide variety of backgrounds. Issues pertaining to social enterprise impact investing and sustainability featured. Networking and dinner reception follow.
+	</description>
+</item>
+
+<item>
+	<title>Dumpling Night hosted by Taiwanese American Students</title>
+	<description>		
+Celebrate the Lunar New Year with delicious dumplings and tāngyuán (rice balls in soup). Guests can enjoy preparing dumplings or get to association members as we make them for you. 
+	</description>
+</item>
+
+<item>
+	<title>Fashion Design Workshop & Conference Series sign-up open</title>
+	<description>	
+	
+Learn sewing and pattern-making techniques from a Textiles and Apparel faculty member. The Workshop and Conference Series runs June 10-14 and June 17-21. Choose one week or both fees and topics covered vary by week. Open to age 16 and up. Space is limited. 
+
+
+
+Make your own creation as you learn how to take individual body measurements how to draft patterns and how designers construct garments and patterns. No prior sewing experience necessary. Supplies and snacks provided. 
+
+	</description>
+</item>
+
+
+<item>
+	<title>Office supply swap & recycling event held</title>
+	<description>	
+	
+Swap unwanted office supplies for ones you need or clear out clutter. Used writing instruments recycled. Drop off items from 9 a.m.-noon return to shop from 1:30-4 p.m. Snacks and coffee served for morning contributors. Special recycling also available for keys e-waste books batteries paper & cardboard vinyl banners and ink & toner. Drop off anytime during the day. 
+	</description>
+</item>
+
+<item>
+	<title>Tailgate recycling volunteer opportunity announced</title>
+	<description>	
+	
+The Campus Environmental Center is looking for organizations and individual volunteers to clean up the tailgates at home games. Food t-shirts prizes and a good time provided. 
+	</description>
+</item>
+
+<item>
+	<title>Women\'s Health Day sponsored by Zeta Sigma Chi</title>
+	<description>	
+	
+Zeta Sigma Chi Multicultural Sorority holds its annual Womens Health Day focusing this year on the prevention and treatment of ovarian uterine and cervical cancer all of which affect young women. Free reading material provided as well as light refreshments and the opportunity to discuss how young women at UT can take steps to maintain good health. 
+	</description>
+</item>
+
+<item>
+	<title>Japanese Association hosts Fall Festival</title>
+	<description>
+
+Fall Festival is an annual event hosted by the Japanese Association featuring performances food games and more. 	
+	</description>
+</item>
+
+<item>
+	<title>Food Studies hosts final Educated Eater event of semester</title>
+	<description>	
+	
+At this Educated Eater event learn more about the Food Studies Project and get involved with mapping the UT food scene. Dessert provided. 
+	</description>
+</item>
+
+<item>
+	<title>Callicarpa hosts opening for Bantam: How Big Is Small?</title>
+	<description>	
+	
+Attend an opening reception for Bantam: How Big Is Small? This exhibition by Callicarpa Galleries explores ways in which small works can operate in big ways negating our assumptions that a works strength comes through its size. 
+
+	</description>
+</item>
+
+
+<item>
+	<title>Amazon.com tech talk and info session presented</title>
+	<description>
+Attend a tech talk and information session on how scalability programming and machine learning are used at Amazon. Amazon is currently hiring full-time software engineers. Free food served and free Amazon t-shirts given away.	
+	</description>
+</item>
+
+<item>
+	<title>Poetry on the Plaza presents Actors from the London Stage</title>
+	<description>	
+	
+The Harry Ransom Center presents the Poetry on the Plaza event The Poetry of Jacques Prevert with actor Michael Palmer who is on tour with Actors from the London Stage and plays Shylock in their current production of The Merchant of Venice. Refreshments served. 
+
+
+
+Pick up a free poster and bookmark with the 2012-2013 Poetry on the Plaza schedule at the visitor desk in the Ransom Center lobby. 
+
+	</description>
+</item>
+
+<item>
+	<title>Taiwanese American students host 10th annual Night Market</title>
+	<description>	
+	
+TASA the Taiwanese American Student Association invites you to its 10th annual Night Market showcasing Taiwanese culture. Free food prizes games t-shirts and performances make this an unforgettable night. 
+
+	</description>
+</item>
+
+<item>
+	<title>UT Sciences Toastmasters holds fall open house</title>
+	<description>	
+	UT Sciences Toastmasters hosts its fall open house to introduce to our club to newcomers and showcase a Toastmasters meeting in action. Socialize with our members over delicious food and learn what Toastmasters can do for your academic professional and personal life. 
+	</description>
+</item>
+
+<item>
+	<title>Tour Pickle Research Center\'s meeting and conference venue</title>
+	<description>	
+	
+The Commons Learning Center at the Pickle Research Campus is an ideal venue for meetings and conferences. Schedule a tour with a conference coordinator and enjoy a complimentary lunch. 
+	</description>
+</item>
+
+<item>
+	<title>Art of Living holds weekly breathing & discussion sessions</title>
+	<description>
+
+Art of Living UT offers yoga and meditation classes and performs community service. The groups weekly general meetings feature short stress-relieving breathing exercises followed by thought-provoking discussions on aspects of everyday life on campus. Free snacks and refreshments provided. 	
+	</description>
+</item>
+
+
+<item>
+	<title>Indian Cultural Association holds dance clinic Jhoom</title>
+	<description>	
+	
+Learn how to dance like a Bollywood pro at a clinic teaching two 45-second routines. Free food served to attendees. 
+	</description>
+</item>
+
+<item>
+	<title>Friday lunch forum held at LDS Institute of Religion</title>
+	<description>
+
+The Austin LDS Institute of Religion hosts a home-cooked lunch (dessert included). The forum features a 15-minute spiritual message. Join us for great food and company. 	
+	</description>
+</item>
+
+<item>
+	<title>Cyber Scare and Gigglepants talk Internet safety</title>
+	<description>	
+	
+Learn how to browse the Internet safely while trying not to fall off your seat from laughing. UT Student Organization Safety Board 
+
+presents Cyber Scare alongside Gigglepants who perform their improvisation comedy act on the theme of Internet safety. Free food and education. 
+	</description>
+</item>
+
+<item>
+	<title>Visual Arts Center presents Work Party in Hecho Farm</title>
+	<description>	
+	
+Hecho Farm is a stage for the continued growth of artist Cruz Ortizs lovesick alter ego Spaztek as well as an exploration of the material social and political possibilities of collaboration within an art education context. Join Ortiz for a free collaborative workshop on his farm followed by a BBQ lunch. 
+	</description>
+</item>
+
+<item>
+	<title>Nazar online South Asian magazine holds meeting</title>
+	<description>	
+	
+Nazar is an online magazine that serves as an outlet for the South Asian perspective. We seek opinionated writers photographers and editors of any level. Attend a meeting with Nazar members and learn how you can contribute. Desi refreshments served. 
+
+	</description>
+</item>
+
+<item>
+	<title>ISACO presents annual performing arts show</title>
+	<description>	
+	
+The Iranian Student Academic and Cultural Organization (ISACO) presents Farhange Finglisi a showcase celebrating Persian culture that includes dances skits poetry and a fashion show. 
+
+Refreshments and Persian sweets served at intermission. 
+
+Half of proceeds donated to Children of Persia a charity helping those affected by the recent earthquake in East Azerbaijan. 
+	</description>
+</item>
+	
+
+	
+	</channel>
+</rss>	
