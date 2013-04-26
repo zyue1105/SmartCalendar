@@ -45,7 +45,7 @@ class classifier:
         self.test_vec = []
         self.total_docs = len(self.train_text) + len(self.test_text)
 
-        
+        self.documents = []
     def test_func(self):
         print "test succeed!"
         
@@ -73,7 +73,9 @@ class classifier:
             else:
                 text = doc['Title'] + doc['Content']
             words = self.getTerms(text)
+            self.documents.append(words)
             for word in words:
+                
                 try:
                     self.tf_index[word][docID] += 1
                 except:
@@ -158,6 +160,95 @@ class classifier:
         for doc in self.test_text:
             self.test_vec.append(self.svm_test_one_doc(doc,svc))
             
+
+    def extract_terms(self, data):
+        ''' (list) -> dict
+ 
+        Return a dictionary invert_term consisted of {terms: [term_id, DF]}
+        '''
+        invert_table = []
+        for i in range(len(data)):
+            ''' [term, document_id] '''
+            tmp_dict = {term: i for term in data[i]}
+            for key in tmp_dict:
+                invert_table.append((key, tmp_dict[key]))
+        ''' sort by term '''
+        invert_table = sorted(invert_table, key = lambda x : x[0])
+        cur_word = invert_table[0][0]
+        invert_terms = {cur_word: [0, 1]}
+        count = 1
+        for i in range(1, len(invert_table)):
+            if invert_table[i][0] == cur_word:
+                ''' add document frequency '''
+                invert_terms[cur_word][1] += 1
+            else:
+                ''' new term '''
+                cur_word = invert_table[i][0]
+                invert_terms[cur_word] = [count, 1]
+                count += 1
+        return invert_terms
+
+    def feature_selection(self):
+        ''' (list, list, int) -> list
+ 
+        Return list of documents of selected features. The feature selection is achieved
+        by computing the mutual information
+        '''
+        #documents = self.train_text
+        documents = self.documents
+                   
+        classification = self.train_vec
+        print "len of documents: ", len(documents), "len of classification: ", len(classification)
+        num_classes = len(unique(classification))
+        invert_terms = self.extract_terms(documents)    
+        N = len(documents) + 4
+        for i in invert_terms:
+            invert_terms[i] = []
+        max_score = []
+        for i in range(num_classes):
+            max_score.append(0)
+            for j in invert_terms:
+                ''' add one smooth '''
+                N10 = 1
+                N11 = 1
+                N01 = 1
+                N00 = 1
+                for k in range(len(documents)):
+                    if j in documents[k] and classification[k] != i:
+                        N10 += 1
+                    elif j in documents[k] and classification[k] == i:
+                        N11 += 1
+                    elif j not in documents[k] and classification[k] == i:
+                        N01 += 1
+                    elif j not in documents[k] and classification[k] != i:
+                        N00 += 1            
+            
+                N1_ = N10 + N11 * 1.0
+                N_1 = N11 + N01 * 1.0
+                N0_ = N01 + N00 * 1.0
+                N_0 = N10 + N00 * 1.0            
+                invert_terms[j].append(N11 * 1.0 / N * math.log(N * N11 / N1_ / N_1, 2) + \
+                            N01 * 1.0 / N * math.log(N * N01 / N0_ / N_1, 2) + \
+                            N10 * 1.0 / N * math.log(N * N10 / N1_ / N_0, 2) + \
+                            N00 * 1.0 / N * math.log(N * N00 / N0_ / N_0, 2))
+                max_score[i] = max(max_score[i], invert_terms[j][i])
+            print sorted(invert_terms, key = lambda x : invert_terms[x][i], reverse = True)[:10]
+            ''' print selected_feature '''
+        new_documents = []
+        cnt = 0
+        for i in range(len(documents)):
+            new_documents.append([])
+            cls = classification[i]
+            for j in documents[i]:
+                #print "j: ", j, "cls: ", cls
+                if invert_terms[j][cls] >= max_score[cls] * 0.001:                
+                    new_documents[i].append(j)
+            if new_documents[i] == []:
+                cnt += 1
+                new_documents[i].append('for_eliminating_null')
+            
+        return new_documents
+
         
 def main():
     c1 = classifier()
@@ -166,17 +257,18 @@ def main():
     svc = c1.svm_train_linear()
     c1.svm_test(svc)
     print "the classification results are: "
-    print c1.test_vec
-    print "type: ", type(c1.test_vec[3]), c1.test_vec[3]
+    #print c1.test_vec
+    #print "type: ", type(c1.test_vec[3]), c1.test_vec[3]
     for i in xrange(len(c1.test_vec)):
         if c1.test_vec[i] == 2:
             print "class 2, movie: ", c1.test_text[i]
         elif c1.test_vec[i] == 1:
-            print "class 1: ", c1.test_text[i]
-        elif c1.test_vec[i] == 3:
-            print "class 3: ", c1.test_text[i]
-        elif c1.test_vec[i] == 5:
-            print "class 5: ", c1.test_text[i]
-    
+            pass
+            #print "class 1: ", c1.test_text[i]
+        elif c1.test_vec[i] == 0:
+            print "class 0: ", c1.test_text[i]
+        
+    new_docs = c1.feature_selection()
+    #print "after feature selection: ", new_docs
 if __name__ == '__main__':
     main()
