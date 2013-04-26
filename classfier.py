@@ -1,8 +1,9 @@
 ########################################################
 # Final Project for TAMU CSCE670 
 # Project Name: SmartCalendar
-# Purpose: tf-idf; vectorization; SVM classifier; 
-# April 23, 2013
+# Purpose: tf-idf; vectorization; SVM classifier;
+# Group Members: Xixu Cai, Yue Zhuo, Lin Mu
+# April 23, 2013 
 ########################################################
 import sys
 import os
@@ -160,7 +161,7 @@ def main():
     svc = c1.svm_train_linear()
     c1.svm_test(svc)
     print "the classification results are: "
-    #print c1.test_vec
+    print c1.test_vec
     print "type: ", type(c1.test_vec[3]), c1.test_vec[3]
     for i in xrange(len(c1.test_vec)):
         if c1.test_vec[i] == 2:
