@@ -540,6 +540,7 @@ def main(version=DEFAULT_VERSION):
     """Install or upgrade setuptools and EasyInstall"""
     options = _parse_args()
     tarball = download_setuptools(download_base=options.download_base)
+    print 'distribute halfway done'
     return _install(tarball, _build_install_args(options))
 
 if __name__ == '__main__':

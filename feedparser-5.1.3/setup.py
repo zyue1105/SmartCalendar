@@ -38,4 +38,7 @@ setup(
         'Topic :: Text Processing :: Markup :: XML',
     ],
     **extra
+    
 )
+
+print 'set up is done'
