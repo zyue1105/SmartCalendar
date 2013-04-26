@@ -15,7 +15,7 @@ from numpy import *
 import math
 import time
 import pickle
-import requests # Get from https://github.com/kennethreitz/requests
+#import requests # Get from https://github.com/kennethreitz/requests
 import string
 import random
 from sklearn import svm
@@ -60,8 +60,11 @@ class classifier:
     
     def build_tf_idf(self):
         """parse the infile documents; build tf_index and df_index"""
+        i = 0
         for doc in self.train_text:
-            docID = self.train_text.index(doc)
+            #docID = self.train_text.index(doc)
+            docID = i
+            i += 1
             #print "build_tf_idf() ",doc
             if doc['Content'] == None:
                 text = doc['Title']
@@ -85,17 +88,19 @@ class classifier:
                         self.doc_words[docID] = [word]
     def vectorization(self):
         """build vector for each document"""
+        i = 0
         for doc in self.train_text:
             vector = []
-            docID = self.train_text.index(doc)
+            docID = i
+            i += 1
             for term in self.total_terms:
                 if term in self.doc_words[docID]:
                     vector.append(self.tf_idf(self.tf_index[term][docID], self.df_index[term], self.total_docs))
                 else:
                     vector.append(0)
             mag = 0
-            for i in vector:
-                mag += math.pow(i, 2)
+            for m in vector:
+                mag += math.pow(m, 2)
             mag = sqrt(mag)
             self.doc_vector.append( array(vector)/mag )  #does sklearn svm accept numpy array? or only list??? ---make sure!!!
     def svm_train_linear(self):
