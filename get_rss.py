@@ -1,5 +1,8 @@
 import feedparser
 from bs4 import BeautifulSoup
+from icalendar import Calendar, Event
+from datetime import datetime
+import numpy as np
 
 def generate_training_data():
     ''' () -> (list, list)
@@ -41,7 +44,8 @@ def generate_training_data():
 def generate_test_data():
     ''' () -> list
 
-    Return list of documents, in which each document is a dict {'Contents' : '', 'Title' : ''}
+    Return list of documents, in which each document is a dict
+    {'Contents' : , 'Title' : , 'link' : , 'start' : , 'end' : , 'location' : }
     '''
     documents = []
     url_prefix = 'http://calendar.tamu.edu/?&y=2013&m=4&d='
@@ -85,5 +89,32 @@ def generate_test_data():
 
     return documents
 
+def generate_test_data_icalendar():
+    ''' () -> list
 
+    Return list of documents, in which each document is a dict
+    {'Contents' : , 'Title' : , 'link' : , 'start' : , 'end' : , 'location' : }
+    '''
+    cal = Calendar.from_ical(open('./Test_data/UTaustin.ics','rb').read())
+    cnt = 0
+    total = 100
+    documents = []
+    
+    for component in cal.walk():        
+        if component.name == 'VEVENT':            
+            tmp_dict = {}
+            tmp_dict['Contents'] = component.get('description').format()
+            tmp_dict['Title'] = component.get('summary').format()
+            tmp_dict['link'] = component.get('url')
+            # convert datetime to dateime64
+            tmp_dict['start'] = str(np.datetime64(component.get('dtstart').dt))
+            tmp_dict['stend'] = str(np.datetime64(component.get('dtend').dt))
+            tmp_dict['location'] = component.get('location').format()
+            
+            documents.append(tmp_dict)
+            cnt += 1
+        if cnt > total:
+            break
+        
+    return documents
 
