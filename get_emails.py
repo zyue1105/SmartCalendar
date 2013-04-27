@@ -42,4 +42,3 @@ for emailid in items:
     curr_mail['Content'] = mail.get_payload()
 
     emails.append(curr_mail)
-
