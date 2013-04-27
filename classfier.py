@@ -309,7 +309,7 @@ class classifier:
             cls = classification[i]
             for j in documents[i]:
                 #print "j: ", j, "cls: ", cls
-                if invert_terms[j][cls] >= max_score[cls] * 0.6:                
+                if invert_terms[j][cls] >= max_score[cls] * 0.45:                
                     new_documents[i].append(j)
             if new_documents[i] == []:
                 cnt += 1
