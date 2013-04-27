@@ -254,14 +254,12 @@ Upcoming screenings in the series include "The Deer Hunter" (1978) on Oct. 22 an
 	</description>
 </item>
 	
-<item>
-<description>	
-<title>
-MSC Aggie Cinema's Arthouse presents a film about the true story of Elle editor Jean-Dominique Bauby who suffers a stroke and has to live with an almost totally paralyzed body; only his left eye isn't paralyzed.	
-</title>
-</description>
-</item>
-	
+	<item>	
+	<title>MSC Aggie Cinema Arthouse Presents: The Diving Bell and The Butterfly</title>
+	<description>	
+	MSC Aggie Cinema's Arthouse presents a film about the true story of Elle editor Jean-Dominique Bauby who suffers a stroke and has to live with an almost totally paralyzed body; only his left eye isn't paralyzed.		
+	</description>
+	</item>	
 	
 	<item>
 	<title>Texas Film Festival</title>
