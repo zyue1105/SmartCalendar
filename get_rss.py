@@ -9,24 +9,29 @@ def generate_training_data():
     '''
     d = feedparser.parse(r'./Training_data/test.txt')
     documents = []
-    for i in range(len(d.entries)):
+    for i in range(len(d.entries)):        
         tmp_dict = {}
         tmp_dict['Title'] = d.entries[i].title
+        #print d.entries[i].title
         # parse HTML
         html_doc = d.entries[i].description    
         soup = BeautifulSoup(html_doc)
         # find the contents
-        summary = soup.find('div', class_='summary')
+        summary = soup.find('div', class_= 'summary')
         if summary != None:
             tmp_dict['Content'] = summary.string
         else:
-            tmp_dict['Content'] = html_doc        
-                
+            tmp_dict['Content'] = html_doc
+                                
         documents.append(tmp_dict)
 
     with open('./Training_data/labels.txt') as f :
         labels_str = f.read().split('\n')
     labels = [int(x) for x in labels_str]
+
+    for i in range(len(documents)):
+        if 'food' in documents[i] and label[i] != 1:
+            print i
 
     #print labels
     return (documents, labels)
@@ -49,12 +54,26 @@ def generate_test_data():
         for i in range(len(d.entries)):
             tmp_dict = {}
             tmp_dict['Title'] = d.entries[i].title
+            tmp_dict['link'] = d.entries[i].link
+           
             # parse HTML
             html_doc = d.entries[i].description    
-            soup = BeautifulSoup(html_doc)
+            soup = BeautifulSoup(html_doc)            
             # print soup.prettify()        
             # find the contents    
-            tmp_dict['Content'] = soup.find('div', class_='summary').string                
+            tmp_dict['Content'] = soup.find('div', class_= 'summary').string           
+            
+            # find the time
+            #print html_doc
+            tmp_dict['start'] = soup.find('abbr', class_ = 'dtstart')['title']
+            dtend = soup.find('abbr', class_ = 'dtend')
+            if dtend != None:
+                tmp_dict['end'] = dtend['title']
+            else:
+                tmp_dict['end'] = tmp_dict['start']            
+
+            # find the location
+            tmp_dict['location'] = soup.find('small', class_ = 'location').string
             
             #print tmp_dict
             documents.append(tmp_dict)

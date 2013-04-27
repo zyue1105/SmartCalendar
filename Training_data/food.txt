@@ -388,7 +388,5 @@ Half of proceeds donated to Children of Persia a charity helping those affected 
 	</description>
 </item>
 	
-
-	
 	</channel>
 </rss>	
