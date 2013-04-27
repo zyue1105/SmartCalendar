@@ -51,6 +51,9 @@ class classifier:
 
         self.documents = []
         self.new_docs = self.feature_selection()
+
+        self.food_results = []
+        self.movie_results = []
       
     def getTerms(self, line):
         """helper function; parse and get terms from a string"""
@@ -188,11 +191,17 @@ class classifier:
         """given a vector of document; classify it as "food, seminar or movie"""
         for doc in self.test_text:
             self.test_food_vec.append(self.svm_test_one_doc(doc,svc))
+        for i in xrange(len(self.test_food_vec)):
+            if self.test_food_vec[i] == 1:
+                self.food_results.append(self.test_text[i])
     def svm_test_movie(self, svc):
         """given a vector of document; classify it as "food, seminar or movie"""
         for doc in self.test_text:
             self.test_movie_vec.append(self.svm_test_one_doc(doc,svc))
-            
+        #print "test_movie_vec:", self.test_movie_vec
+        for i in xrange(len(self.test_movie_vec)):
+            if self.test_movie_vec[i] == 2:
+                self.movie_results.append(self.test_text[i])            
     def svm_train_food(self):
         y = []
         for i in self.train_vec:
@@ -309,7 +318,7 @@ class classifier:
             cls = classification[i]
             for j in documents[i]:
                 #print "j: ", j, "cls: ", cls
-                if invert_terms[j][cls] >= max_score[cls] * 0.45:                
+                if invert_terms[j][cls] >= max_score[cls] * 0.5:                
                     new_documents[i].append(j)
             if new_documents[i] == []:
                 cnt += 1
@@ -386,30 +395,26 @@ def main():
     #c1.feature_selection()
     c1.build_tf_idf_feature_selection()
     c1.vectorization()
+
     svc1 = c1.svm_train_food()
     c1.svm_test_food(svc1)
     print "============the classification results for food are:=================== "
-    #print c1.test_food_vec
-    for i in xrange(len(c1.test_food_vec)):
-        if c1.test_food_vec[i] == 1:
-            print i,
-            print i, c1.test_text[i]['Title'], c1.test_text[i]['Content']
-    #print "type: ", type(c1.test_vec[3]), c1.test_vec[3]
+    
+    for i in c1.food_results:
+        print i['Title'],"\n", i['Content'],"\n"
+
+    
     svc2 = c1.svm_train_movie()
     c1.svm_test_movie(svc2)
     print "=============the classification results for movie are: ==============="
-    for i in xrange(len(c1.test_movie_vec)):
-        if c1.test_movie_vec[i] == 2:
-            #print i,
-            print i,":", c1.test_text[i]['Title'], c1.test_text[i]['Content']
-    #print "=============the classification results for movie are: ==============="
-    #print c1.test_movie_vec        
-    #new_docs = c1.feature_selection()
-    #c1.find_food()
-    #c1.calculate_df_in_classes()
-    #c1.chi_square()
-    #c1.chi_feature_list(50)
-    
-    #print "after feature selection: ", new_docs
+    for i in c1.movie_results:
+        print i['Title'],"\n", i['Content'],"\n"
+
+
+    print "type of self.food_resutls: ", type(c1.food_results), "len:", len(c1.food_results)
+    print "type of self.food_results[0]: ", type(c1.food_results[0]), "len:", len(c1.food_results[0])
+    print "type of self.movie_resutls: ", type(c1.movie_results), "len:", len(c1.movie_results)
+    print "type of self.movie_results[0]: ", type(c1.movie_results[0]), "len:", len(c1.movie_results[0])
+
 if __name__ == '__main__':
     main()
