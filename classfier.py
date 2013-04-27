@@ -24,7 +24,7 @@ import get_rss
 
 class classifier:
     def __init__(self):
-        self.inFile = ''
+        
         self.tf_index = defaultdict(dict)
         self.df_index = defaultdict(int)
         self.total_terms = []
@@ -38,17 +38,20 @@ class classifier:
         #a classification vector for the training docs;
         #it will be given by the data parsing step
         self.train_vec = []
+        self.class_df = defaultdict(list)
+        self.chi_score = defaultdict(dict)
 
         (self.train_text, self.train_vec) = get_rss.generate_training_data()
         print "self.train_vec: ", self.train_vec
         #self.test_vec is initially empty
         self.test_vec = []
+        self.test_food_vec = []
+        self.test_movie_vec = []
         self.total_docs = len(self.train_text) + len(self.test_text)
 
         self.documents = []
-    def test_func(self):
-        print "test succeed!"
-        
+        self.new_docs = self.feature_selection()
+      
     def getTerms(self, line):
         """helper function; parse and get terms from a string"""
         line = line.lower()
@@ -74,6 +77,31 @@ class classifier:
                 text = doc['Title'] + doc['Content']
             words = self.getTerms(text)
             self.documents.append(words)
+            for word in words:
+                
+                try:
+                    self.tf_index[word][docID] += 1
+                except:
+                    self.tf_index[word][docID] = 1
+                    self.df_index[word] += 1
+                    if not word in self.total_terms:
+                        self.total_terms.append(word)                    
+                if not word in self.doc_words[docID]:
+                    try:
+                        self.doc_words[docID].append(word)
+                    except:
+                        self.doc_words[docID] = [word]
+
+    def build_tf_idf_feature_selection(self):
+        """parse the infile documents; build tf_index and df_index"""
+        i = 0
+        for doc in self.new_docs:
+            #docID = self.train_text.index(doc)
+            docID = i
+            i += 1
+            
+            words = doc
+            #self.documents.append(words)
             for word in words:
                 
                 try:
@@ -149,18 +177,44 @@ class classifier:
             mag += math.pow(i, 2)
         mag = sqrt(mag)
         if mag == 0:
-            print doc
+            pass
+            #print doc
         else: 
             vector = array(vector)/mag
         group = svc.predict(vector)
         return group
         
-    def svm_test(self, svc):
+    def svm_test_food(self, svc):
         """given a vector of document; classify it as "food, seminar or movie"""
         for doc in self.test_text:
-            self.test_vec.append(self.svm_test_one_doc(doc,svc))
+            self.test_food_vec.append(self.svm_test_one_doc(doc,svc))
+    def svm_test_movie(self, svc):
+        """given a vector of document; classify it as "food, seminar or movie"""
+        for doc in self.test_text:
+            self.test_movie_vec.append(self.svm_test_one_doc(doc,svc))
             
-
+    def svm_train_food(self):
+        y = []
+        for i in self.train_vec:
+            if i == 1:
+                y.append(i)
+            else:
+                y.append(0)
+        svc = svm.SVC(kernel = 'linear')
+        #print "self.doc_vector: type: ", type(self.doc_vector), "length: ", len(self.doc_vector)
+        svc.fit(self.doc_vector, y)
+        return svc
+    def svm_train_movie(self):
+        y = []
+        for i in self.train_vec:
+            if i == 2:
+                y.append(i)
+            else:
+                y.append(0)
+        svc = svm.SVC(kernel = 'linear')
+        #print "self.doc_vector: type: ", type(self.doc_vector), "length: ", len(self.doc_vector)
+        svc.fit(self.doc_vector, y)
+        return svc
     def extract_terms(self, data):
         ''' (list) -> dict
  
@@ -194,7 +248,21 @@ class classifier:
         Return list of documents of selected features. The feature selection is achieved
         by computing the mutual information
         '''
-        #documents = self.train_text
+        
+        i = 0
+        for doc in self.train_text:
+            #docID = self.train_text.index(doc)
+            docID = i
+            i += 1
+            #print "build_tf_idf() ",doc
+            if doc['Content'] == None:
+                text = doc['Title']
+            elif doc['Title'] == None:
+                text = doc['Content']
+            else:
+                text = doc['Title'] + doc['Content']
+            words = self.getTerms(text)
+            self.documents.append(words)
         documents = self.documents
                    
         classification = self.train_vec
@@ -241,34 +309,107 @@ class classifier:
             cls = classification[i]
             for j in documents[i]:
                 #print "j: ", j, "cls: ", cls
-                if invert_terms[j][cls] >= max_score[cls] * 0.001:                
+                if invert_terms[j][cls] >= max_score[cls] * 0.5:                
                     new_documents[i].append(j)
             if new_documents[i] == []:
                 cnt += 1
                 new_documents[i].append('for_eliminating_null')
             
         return new_documents
+    def find_food(self):
+        """find food in class 0"""
+        for i in xrange(len(self.documents)):
+            doc = self.documents[i]
+            if self.train_vec[i] == 0:
+                if 'glasscock' in doc:
+                    print i, doc
+                elif 'refreshments' in doc:
+                    print i, doc
 
-        
+    def calculate_df_in_classes(self):
+        for doc in self.doc_words:
+            cls = self.train_vec[doc]
+            #print doc, self.doc_words[doc]
+            for word in self.doc_words[doc]:
+                if word in self.class_df:
+                    self.class_df[word][cls] += 1
+                else:
+                    for i in xrange(len(unique(self.train_vec))):
+                        if i == cls:
+                            self.class_df[word].append(1)
+                        else:
+                            self.class_df[word].append(0)
+    
+    def chi_square(self):
+        """ compute chi square scores for each term in each class"""
+        num_docs_in_class = []
+        for i in xrange(len(unique(self.train_vec))):
+            num_docs_in_class.append(self.train_vec.count(i))
+        for doc in self.doc_words:
+            cls = self.train_vec[doc]
+            for term in self.doc_words[doc]:
+                if not term in self.chi_score[cls]:
+                    n11 = float(self.class_df[term][0])
+                    n10 = float(self.class_df[term][1] + self.class_df[term][2])
+                    n01 = float(num_docs_in_class[cls] - n11)
+                    n00 = 0.0
+                    for i in xrange(len(unique(self.train_vec))):
+                        if i != cls:
+                            n00 += num_docs_in_class[i]
+                    
+                    a = n11 + n10 + n01 + n00
+                    b = math.pow(((n11 * n00) - (n10 * n01)), 2)
+                    c = (n11 + n01) * (n11 + n10) * (n10 + n00) * (n01 + n00)
+                    chi = (a * b) / c
+                    self.chi_score[cls][term] = chi
+
+    def chi_feature_list(self, k):
+        """return the feature list with top k terms in each classes; total <= 3*k"""
+        #self.chi_score[cls], self.score['bus'], self.score['pol']; self.features = []
+        num_classes = len(unique(self.train_vec))
+        features = [[],[],[]]
+        for i in xrange(num_classes):
+            count = 0
+            for key,value in sorted(self.chi_score[i].iteritems(), key=lambda (k,v): (v,k)):
+                count += 1
+                if count < k:
+                    features[i].append(key)
+       
+        #print "length of feature_list:", len(self.features)
+        print "number of features: ", k
+        for i in xrange(num_classes):
+            print i, ":",features[i]
+        return features
 def main():
     c1 = classifier()
-    c1.build_tf_idf()
+    #c1.build_tf_idf()
+    #c1.feature_selection()
+    c1.build_tf_idf_feature_selection()
     c1.vectorization()
-    svc = c1.svm_train_linear()
-    c1.svm_test(svc)
-    print "the classification results are: "
-    #print c1.test_vec
+    svc1 = c1.svm_train_food()
+    c1.svm_test_food(svc1)
+    print "============the classification results for food are:=================== "
+    #print c1.test_food_vec
+    for i in xrange(len(c1.test_food_vec)):
+        if c1.test_food_vec[i] == 1:
+            print i,
+            print i, c1.test_text[i]['Title'], c1.test_text[i]['Content']
     #print "type: ", type(c1.test_vec[3]), c1.test_vec[3]
-    for i in xrange(len(c1.test_vec)):
-        if c1.test_vec[i] == 2:
-            print "class 2, movie: ", c1.test_text[i]
-        elif c1.test_vec[i] == 1:
-            pass
-            #print "class 1: ", c1.test_text[i]
-        elif c1.test_vec[i] == 0:
-            print "class 0: ", c1.test_text[i]
-        
-    new_docs = c1.feature_selection()
+    svc2 = c1.svm_train_movie()
+    c1.svm_test_movie(svc2)
+    print "=============the classification results for movie are: ==============="
+    for i in xrange(len(c1.test_movie_vec)):
+        if c1.test_movie_vec[i] == 2:
+            print i,
+            #print i,":", c1.test_text[i]['Title'], c1.test_text[i]['Content']
+    #print "=============the classification results for movie are: ==============="
+    #print c1.test_movie_vec        
+    #new_docs = c1.feature_selection()
+    #c1.find_food()
+    #c1.calculate_df_in_classes()
+    #c1.chi_square()
+    #c1.chi_feature_list(50)
+    
     #print "after feature selection: ", new_docs
 if __name__ == '__main__':
     main()
