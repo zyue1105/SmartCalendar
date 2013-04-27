@@ -711,6 +711,246 @@ Half of proceeds donated to Children of Persia a charity helping those affected 
 	</description>
 </item>
 
+	<item>
+	<title>Traversing the Boundaries of Resistance symposium held</title>
+	<description>	
+	Activists Edson Cardoso (Brazil) and Haile Gerima (Ethiopia/U.S.) attend a screening of "Beyond the Mirror" (dir. Ana Flauzina) at the "Traversing the Boundaries of Resistance" symposium. The film features a dialogue between Cardoso and Gerima. Following is a formal presentation by Cardoso and a screening and discussion of Gerima's most recent movie "Teza."
+	</description>
+	</item>
+
+<item>
+	<title>"Last Call at the Oasis" environmental film screened</title>
+	<description>	
+	How might climate change and population growth affect the way your water is replenished? Jay Famiglietti explores this question in "Last Call at the Oasis," a film by the producers of "An Inconvenient Truth." A Q&A follows the screening.
+	</description>
+	</item>
+	
+	<item>
+	<title>"Rethinking Power" conference video archive launched</title>
+	<description>	
+	The Center for Women's & Gender Studies (CWGS) and the University of Texas Libraries Human Rights Documentation Initiative (HRDI) announce the launch of the online video archive for the 2012 conference "Rethinking Power & Resistance: Gender and Human Rights from Texas to the Transnational Americas." Attendees and panelists will discuss gender justice. 
+
+Gender justice panelists are Dr. Matt Richardson, associate professor of English and African and African Diaspora studies and CWGS affiliate; Dr. Christen Smith, assistant professor of anthropology and African and African Diaspora studies; and Rose Pulliam, MSW, co-director of allgo, a statewide queer people of color organization.
+	</description>
+	</item>
+	
+	<item>
+	<title>Brazilian Film Series: "Vinicius"</title>
+	<description>	
+	Documentary on Brazilian poet, playwright, critic, diplomat, composer, singer and lyricist Vinicius de Moraes (1913-1980), internationally famous lyricist of Bossa Nova hits like "The Girl from Ipanema" and "Insensatez" and writer of the play which later became the film "Black Orpheus" (1959). 
+
+Archive images combine with up to date interviews with members of his family, friends, partners (Chico Buarque, Edu Lobo, Carlos Lyra) and also musical numbers with famous Brazilian singers. The film captures both the artist's creative transformation and the parallel social transformation of Rio de Janeiro.
+	</description>
+	</item>
+	
+	<item>
+	<title>CREEES presents "Stalker"</title>
+	<description>	
+	Near a gray and unnamed city is the Zone, an alien place guarded by barbed wire and soldiers. Over his wife's numerous objections, a man rises in the dead of night; he's a Stalker, one of a handful who have the mental gifts (and who risk imprisonment) to lead people into the Zone to the Room, a place where one's secret hopes come true.
+	</description>
+	</item>
+	
+	<item>
+	<title>CWGS hosts screening of 1983 film Silkwood</title>
+	<description>	
+	Director: Mike Nichols Starring: Meryl Streep, Kurt Russell, Cher, Craig T. Nelson 
+
+The story of Karen Silkwood, the Oklahoma nuclear-plant worker who blew the whistle on dangerous practices at the Kerr-McGee plant and who died under circumstances which are still under debate.
+	</description>
+	</item>
+	
+	<item>
+	<title>Middle Eastern Film Series - "A Summer in La Goulette"</title>
+	<description>	
+	The Middle East Film Club presents a film by Marie-Francoise Mascaro and Ferid Boughedir. The film, in Arabic with English subtitles, is about a family resolving their differences while he Six Day War breaks out in the 
+Middle East, which divides Jews and Arabs the world over.
+	</description>
+	</item>
+	
+	<item>
+	<title>Department of French and Italian presents film</title>
+	<description>	
+	The Department of French and Italian screens "La parola amore esiste (Notes of Love," a light-hearted, if brooding, look at love, romance and dysfunctional people by Mimmo Calopresti. 
+
+	In Italian with English subtitles.
+	</description>
+	</item>
+	
+	<item>
+	<title>South Asia Institute presents two films by Sanjay Kak</title>
+	<description>
+On Oct. 1, "Words on Water" looks at the more than 20 year history of non-violent struggle of displaced farmers and tribals in the Narmada Bachao Andolan (Save the Narmada Movement). The filmmaker will be present to answer questions after the film. 
+
+On Oct. 2, "Jashn-e-Azadi" ("How We Celebrate Freedom") examines the more than 50 year history of violence in Kashmir's struggle for Independence. The filmmaker will be present to answer questions. 
+
+Both films begin at 7 p.m.	
+	</description>
+	</item>
+	
+	<item>
+	<title>Spanish and Portuguese Dept Film Series presents "Los Olivados"</title>
+	<description>	
+	The Spanish and Portuguese Department 
+Film Series Presents: 
+Mexican cinema 
+
+Los Olvidados (1950) 
+by Luis Buy?uel 
+
+Monday October 1 2007 
+7:30pm in CAL 100 
+Sponsored by the GSO 
+
+In his exile through Mexico, the father of surreal cinema, 
+Luis BuyDC?uel (1900-1983), created one of the best motion-pictures in film 
+history: the Mexican nonrealistic film entitled "Los olvidados" (The 
+Forgotten Ones). The movie depicts the lives of two boys, surviving 
+in the streets of a developing Mexico City. It is the story of the fatality of destiny, the absurdity, and irrationality of life itself. 
+
+This 1950's film was recognized in Cannes as the best-directed movie, and is also in second place among the best 100 Mexican Films.
+	</description>
+	</item>
+	
+	<item>
+	<title>See screening of "Cesar E. Chavez: A Legacy for Texas and the Nation"</title>
+	<description>	
+	There will be a free screening of Hector Galan's "Chicano! History of the Mexican-American Civil Rights Movement" followed by a panel discussion with university faculty and students.
+	</description>
+	</item>
+	
+	<item>
+	<title>Harry Ransom Center screens "The Godfather II"</title>
+	<description>	
+The Harry Ransom Center screens "The Godfather II" (1974) as part of the Robert De Niro Film Series on at 7 p.m. at the Ransom Center. The film stars De Niro, Al Pacino, 
+and Robert Duvall. Associate Curator of Film Steve Wilson introduces the film and discusses related items from the De Niro collection. De Niro donated his archive to the Ransom Center in 2006. 
+
+Directed by Francis Ford Coppola, the film continues the saga of the Corleone crime family, telling the story of a young Vito Corleone (De Niro) growing up in Sicily and New York and following Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood, and Cuba. The film contains adult content. 
+Seating is free, but limited. 
+
+Upcoming screenings in the series include "Taxi Driver" (1976) on Oct. 15, "The Deer Hunter" (1978) on Oct. 22, and "Mary Shelley's Frankenstein" (1994) on Oct. 29.
+	
+	</description>
+	</item>
+
+
+	<item>
+	<title>Department of Spanish and Protuguese presents film series</title>
+	<description>	
+From the dark comedic mind of Mexican director Alejandro Lozano comes 
+Matando Cabos (Noose Ends, 2004), a comedy that keeps you just where 
+you should be: knowing everything but with no idea of what's going on 
+next. A tale of misunderstandings from the misunderstood, fallen 
+legends, and those who dare tamper with them.
+	</description>
+	</item>	
+	
+	<item>
+	<title>CWGS presents "Twilight of the Golds"</title>
+	<description>	
+	Twilight of the Golds (1997) Director: Ross Kagan Marks Starring: Garry Marshall, Faye Dunaway, Jennifer Beals, Brendan Fraser 
+
+When Suzanne Stein has a genetic analysis done on her unborn child, she discovers that although she has a healthy baby, the child will most likely be born gay, like her brother, David. She must decide whether to keep the child, or to have an abortion. Her family enters a crisis about love and acceptance as she makes this difficult choice.
+	</description>
+	</item>
+	
+	<item>
+	<title>CREEES presents "Solaris"</title>
+	<description>	
+	The Solaris mission has established a base on a planet that appears to host some kind of intelligence, but the details are hazy and very secret. This film probes man's thoughts and conscience, as it follows a psychologist who is sent to a space station situated over the mysterious Solaris Ocean.
+	</description>
+	</item>
+	
+	<item>
+	<title>Film Classics: Top Gun</title>
+	<description>	
+	"I feel the need, the need for speed." See Tom Cruise, and Meg Ryan when they were young. Outdoors at Spence Park near the Association of Former Students building. Thanks to the Association for their sponsorship of this program.
+	</description>
+	</item>
+	
+	<item>
+	<title>Film Classics: Space Jam</title>
+	<description>	
+	Get ready for hoops season by watching Bugs Bunny and Michael Jordan take it to the rack against the Nerdluks.
+	</description>
+	</item>
+	
+	<item>
+	<title>Classic Film: "Witness for the Prosecution," part of the Mysteries of Life film series</title>
+	<description>	
+	(1957, 116 minutes, Black and White) Directed by Billy Wilder. Based on an Agatha Christie play, this Oscar-nominated mystery directed and co-written by Billy Wilder features an esteemed and ailing lawyer (Charles Laughton). Recovering from a near-fatal heart attack, he is ordered to stay on a "diet" of bland civil suits. Instead, he takes on the defense of an alleged murderer (Tyrone Power, in his final performance) accused of killing a wealthy widow. Things get complicated when the defendant's only alibi, his wife (Marlene Dietrich), decides to testify for the prosecution. The George Bush Presidential Library and Museum and the George Bush Presidential Library Foundation present the Classic Film Series free of charge and invite anyone in the community to attend. Beverages are provided courtesy of Bryan Coca Cola Bottling Company and popcorn is available at no cost. Refreshments are available in the lobby in the hour preceding the start of each movie. All films are shown in the Annenberg Presidential Conference Center's Hagler Auditorium, unless otherwise noted, and a speaker introduces each film. Parking is free and plentiful. For more information call (979) 691-4014, or email to reservations.bush@nara.gov.
+	</description>
+	</item>
+	
+	<item>
+	<title>Film Studies Fall 2012 Screenings: "Sironia" Sponsored by the Film Studies Program</title>
+	<description>	
+	Wes Cunningham, the lead actor and musician, will be in attendance.
+	</description>
+	</item>
+	
+	<item>
+	<title>Film Classics: Space Jam</title>
+	<description>	
+	Get ready for hoops season by watching Bugs Bunny and Michael Jordan take it to the rack against the Nerdluks.
+	</description>
+	</item>
+	
+	<item>
+	<title>Classic Film: "Laura," with a book sale and signing,
+"Hollywood Enigma: Dana Andrews," part of the Mysteries of Life film series</title>
+	<description>
+(1944, 88 minutes, Black and White) Directed by Otto Preminger. Laura Hunt (Gene Tierney) has been murdered, and as New York City Detective Mark McPherson (Dana Andrews) investigates, he finds that everyone seems to be in love with her - and he, too, gradually falls under her spell. But things aren't always what they seem. Otto Preminger's classic mystery received four Academy Award nominations, including a not for Best Director, and won the Oscar for Best Cinematography. Also starring Clifton Webb, Vincent Price and Judith Anderson. This month, we are partnering with Sam Houston State University to bring in biography author Carl Rollyson. Following the movie, we will have a book sale and signing of his newest book, "Hollywood Enigma: Dana Andrews." The George Bush Presidential Library and Museum and the George Bush Presidential Library Foundation present the Classic Film Series free of charge and invite anyone in the community to attend. Beverages are provided courtesy of Bryan Coca Cola Bottling Company and popcorn is available at no cost. Refreshments are available in the lobby in the hour preceding the start of each movie. All films are shown in the Annenberg Presidential Conference Center's Hagler Auditorium, unless otherwise noted, and a speaker introduces each film. Parking is free and plentiful.	
+	</description>
+	</item>
+	
+	<item>
+	<title>Film Studies Fall 2012 Screenings: "Searching for Sonny"</title>
+	<description>	
+	Searching for Sonny (2011) - Director Andrew Disney will be in attendance for a Q&A.
+	</description>
+	</item>
+	
+	<item>
+	<title>Writer LeAnne Howe presents "Playing Pastime"</title>
+	<description>	
+	Playing Pastime is a documentary about members of southeastern Native American tribes who have been playing baseball and fast-pitch softball since the 1880s in Indian Territory, now Oklahoma. The film will be screened October 11 at 3:30pm in Burdine 212. 
+
+LeAnne Howe, who wrote and co-produced the film, will be present for a post-screening Q&A session. 
+
+Brought to you by the Native American Reading Colloquium, the Ethnic & Third World Literatures Group, 
+the Department of English, and the Department of American Studies.
+	</description>
+	</item>
+	
+	<item>
+	<title>Dept. of French and Italian screens "Angela"</title>
+	<description>	
+	The Dept of French and Italian screens "Angela" (2002), the true story of a mob boss' adulterous wife in the 80s shot in semi-documentary style. Director Roberta Torre puts a twist on the Mafia genre by eschewing action and violence and focusing instead on the intimate portrayal of a woman who, in spite of her active role in the Mafia,realizes she's living on the outskirts of this male world. 
+
+In Italian with English subtitles
+	</description>
+	</item>
+	
+	<item>
+	<title>University departments screen "The Unknown Soldier"</title>
+	<description>	
+	Can we silence the ghosts of history? The Wehrmacht-Exhibition, which was shown in 11 major cities in Germany between 1999 and 2004 and was visited by more than 500,000 people, challenged ordinary Germans to rethink what their fathers and grandfathers did during the war. Whereas most had been led to believe that the cold-blooded murder of civilians had been a crime of a minority of officers, for the first time Germans saw photos and footage of ordinary soldiers executing civilians and POWs. The nation was shaken, and large protests were organized by those who believed the evidence was manufactured. In "The Unknown Soldier," director Michael Verhoeven interviews historians and experts, including those who allege or deny the crimes, and filmed in the killing fields of Ukraine and White Russia.
+	</description>
+	</item>
+	
+	<item>
+	<title>Robert De Niro Film Series: Taxi Driver</title>
+	<description>
+The Harry Ransom Center screens "Taxi Driver" (1976) as part of the Robert De Niro Film Series. The film stars De Niro, Jodie Foster and Harvey Keitel. Associate Curator of Film Steve Wilson introduces the film and discusses related items from the De Niro collection. De Niro donated his archive to the Ransom Center in 2006. 
+Directed by Martin Scorsese, the film follows Vietnam veteran and taxi driver Travis Bickle (De Niro) as he struggles with insomnia and loneliness in New York City. The film contains adult content. 
+
+Seating is free, but limited. 
+
+Upcoming screenings in the series include "The Deer Hunter" (1978) on Oct. 22 and "Mary Shelley's Frankenstein" (1994) on Oct. 29.	
+	</description>
+	</item>
+
+
     </channel>
 </rss>
     </channel>

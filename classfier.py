@@ -309,7 +309,7 @@ class classifier:
             cls = classification[i]
             for j in documents[i]:
                 #print "j: ", j, "cls: ", cls
-                if invert_terms[j][cls] >= max_score[cls] * 0.5:                
+                if invert_terms[j][cls] >= max_score[cls] * 0.6:                
                     new_documents[i].append(j)
             if new_documents[i] == []:
                 cnt += 1
@@ -400,8 +400,8 @@ def main():
     print "=============the classification results for movie are: ==============="
     for i in xrange(len(c1.test_movie_vec)):
         if c1.test_movie_vec[i] == 2:
-            print i,
-            #print i,":", c1.test_text[i]['Title'], c1.test_text[i]['Content']
+            #print i,
+            print i,":", c1.test_text[i]['Title'], c1.test_text[i]['Content']
     #print "=============the classification results for movie are: ==============="
     #print c1.test_movie_vec        
     #new_docs = c1.feature_selection()

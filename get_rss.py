@@ -38,7 +38,7 @@ def generate_test_data():
     Return list of documents, in which each document is a dict {'Contents' : '', 'Title' : ''}
     '''
     documents = []
-    url_prefix = 'http://calendar.tamu.edu/?&y=2013&m=4&d='
+    url_prefix = 'http://calendar.tamu.edu/?&y=2013&m=2&d='
     url_affix = '&format=rss'
 
     for day in range(31):
