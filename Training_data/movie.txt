@@ -92,3 +92,25 @@ Filmmakers Christopher Lockett and Gary Nicholson interview authors, collectors,
 	Attend a screening of "Heaven's Rain," based on the true story of crime survivors Brooks and Leslie Douglass. Mr. Douglass will be part of a discussion after the movie.
 	</description>
 	</item> 
+    
+	<item>
+	<title>Plant Biology Society presents movie night</title>
+	<description>	
+	The Plant Biology Society hosts a screening of "The Day of the Triffids." Meet at 6 p.m. in front of UTC to walk to Tapioca House for a pre-movie treat.
+	</description>
+	</item> 
+    
+	<item>
+	<title>Asian American Heritage Week announced</title>
+	<description>	
+	Asian American Heritage Week, hosted by the Asian Desi Pacific Islander American Collective (APAC), is a week-long cultural celebration. Events include Monday 6 p.m. Taste of Asia at Gregory Plaza, Tuesday 7 p.m. Gigglepants at BUR 106, Wednesday 6 p.m. RAISE awards at SAC ballroom,
+    Thursday 6 p.m. Alumni Panel and Friday, from 2 p.m., bubble tea and movies at SAC 1.102. See link for details.
+	</description>
+	</item> 
+    
+	<item>
+	<title>Turkish Film Series screens "Once Upon a Time in Anatolia"</title>
+	<description>	
+	Attend a screening of "Bir Zamanlar Anadolu'da" (Once Upon a Time in Anatolia, 2011, 150 minutes), directed by Nuri Bilge Ceylan. In the dead of night, a group of men - including a police commissioner, a prosecutor, a doctor and a murder suspect - drive through the tenebrous Anatolian countryside in search of a corpse, the victim of a brutal murder. During the drive, further mysteries unfold. In Turkish with English subtitles.
+	</description>
+	</item> 
