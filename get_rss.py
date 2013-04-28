@@ -45,7 +45,7 @@ def generate_test_data():
     ''' () -> list
 
     Return list of documents, in which each document is a dict
-    {'Contents' : , 'Title' : , 'link' : , 'start' : , 'end' : , 'location' : }
+    {'Content' : , 'Title' : , 'link' : , 'start' : , 'end' : , 'location' : }
     '''
     documents = []
     url_prefix = 'http://calendar.tamu.edu/?&y=2013&m=4&d='
@@ -59,7 +59,7 @@ def generate_test_data():
         for i in range(len(d.entries)):
             tmp_dict = {}
             tmp_dict['Title'] = d.entries[i].title
-            tmp_dict['link'] = d.entries[i].link
+            tmp_dict['link'] = d.entries[i].link            
            
             # parse HTML
             html_doc = d.entries[i].description    
@@ -79,6 +79,10 @@ def generate_test_data():
 
             # find the location
             tmp_dict['location'] = soup.find('small', class_ = 'location').string
+
+            # add source to content
+            if tmp_dict['link'] != None and tmp_dict['Content'] != None:
+                tmp_dict['Content'] += '\n\nSource\n' + tmp_dict['link']
             
             #print tmp_dict
             documents.append(tmp_dict)
@@ -93,28 +97,33 @@ def generate_test_data_icalendar():
     ''' () -> list
 
     Return list of documents, in which each document is a dict
-    {'Contents' : , 'Title' : , 'link' : , 'start' : , 'end' : , 'location' : }
+    {'Content' : , 'Title' : , 'link' : , 'start' : , 'end' : , 'location' : }
     '''
     cal = Calendar.from_ical(open('./Test_data/UTaustin.ics','rb').read())
     cnt = 0
-    total = 100
+    #total = 100
     documents = []
     
     for component in cal.walk():        
         if component.name == 'VEVENT':            
             tmp_dict = {}
-            tmp_dict['Contents'] = component.get('description').format()
+            tmp_dict['Content'] = component.get('description').format()
             tmp_dict['Title'] = component.get('summary').format()
             tmp_dict['link'] = component.get('url')
             # convert datetime to dateime64
             tmp_dict['start'] = str(np.datetime64(component.get('dtstart').dt))
             tmp_dict['stend'] = str(np.datetime64(component.get('dtend').dt))
             tmp_dict['location'] = component.get('location').format()
+            # add source to content
+            if tmp_dict['link'] != None and tmp_dict['Content'] != None:
+                tmp_dict['Content'] += '\n\nSource\n' + tmp_dict['link']
             
             documents.append(tmp_dict)
             cnt += 1
-        if cnt > total:
-            break
+##        if cnt > total:
+##            break
+
+    print 'Test data generated'
         
     return documents
 
