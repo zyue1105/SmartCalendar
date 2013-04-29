@@ -84,8 +84,8 @@ gflags.DEFINE_enum('logging_level', 'ERROR',
     'Set the level of logging detail.')
 
 def generate_dicts():
-  food_txt = pickle.load( open( "food.txt", "rb" ) )
-  movie_txt = pickle.load( open( "movie.txt", "rb" ) )
+  food_txt = pickle.load( open( "./tamu_data/food.txt", "rb" ) )
+  movie_txt = pickle.load( open( "./tamu_data/movie.txt", "rb" ) )
   #print food_txt
   food_dicts = []
   movie_dicts = []
@@ -153,7 +153,7 @@ def main(argv):
       #print event['summary']
       try:
         created_event = service.events().insert(
-          calendarId='9rksoiu1srpo35afttjk8llmvk@group.calendar.google.com', body=event).execute()
+          calendarId='3am1pdof47chgdfrfhf1gsc6hk@group.calendar.google.com', body=event).execute()
         print created_event['start']
         print created_event['status']
       except urllib2.HTTPError:
@@ -165,7 +165,7 @@ def main(argv):
       #print event['description']
       try:
         created_event = service.events().insert(
-          calendarId='shel43p6v1pca6snj41c1vdq18@group.calendar.google.com', body=event).execute()
+          calendarId='l2fp9r34b196242g57gvuuuvo8@group.calendar.google.com', body=event).execute()
         print created_event['start']
         print created_event['status']
       except urllib2.HTTPError:

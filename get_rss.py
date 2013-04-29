@@ -26,7 +26,7 @@ def generate_training_data():
             tmp_dict['Content'] = summary.string
         else:
             tmp_dict['Content'] = html_doc
-                                
+                  
         documents.append(tmp_dict)
 
     with open('./Training_data/labels.txt') as f :
@@ -87,7 +87,8 @@ def generate_test_data():
                     tmp_dict['Content'] += '\n\nSource\n' + tmp_dict['link']
                 
                 #print tmp_dict
-                documents.append(tmp_dict)
+                if tmp_dict not in documents:
+                    documents.append(tmp_dict)
 
             print 'day', day + 1, ':', len(documents)
 
@@ -126,9 +127,10 @@ def generate_test_data_icalendar():
             # add source to content
             if tmp_dict['link'] != None and tmp_dict['Content'] != None:
                 tmp_dict['Content'] += '\n\nSource\n' + tmp_dict['link']    
-            
-            documents.append(tmp_dict)
-            cnt += 1
+
+            if tmp_dict not in documents:
+                documents.append(tmp_dict)
+                cnt += 1
 ##        if cnt > total:
 ##            break
 

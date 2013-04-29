@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<div align = "center">
+	<title>Smart Calendar</title>
+	<meta charset=UTF-8>
+
+	</div>
+</head>
+<body>
+	<div align='center'>
+	<script language="JavaScript" type="text/javascript">
+	var displaymode=0
+	var iframecode='<iframe id="external"  align="middle" style="width:80%;height:500px" src="https://www.google.com/calendar/embed?title=Smart%20Calendar(TAMU)&amp;height=600&amp;wkst=1&amp;bgcolor=%23990000&amp;src=lh7knvrjaciru6jdeg9o991juk%40group.calendar.google.com&amp;color=%23B1440E&amp;src=n0skeepsrkqs41pn8e02apprpk%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=America%2FChicago"></iframe>'
+	if (displaymode == 0)
+		document.write(iframecode)
+	function jump(url){
+		if (document.getElementById && displaymode == 0)
+			document.getElementById("external").src=url
+		else if(document.all&&displaymode==0)
+			document.all.external.src=url
+		else{
+			if(!window.win2||win2.closed)
+				win2=window.open(url, "calendar", "left = 10000")
+			else{
+				win2.location = url
+				win2.focus()
+			}
+		}	
+	}
+	</script>
+	<form action="" method="post">
+		<select id="school" name="school" onchange="jump(school.value)">
+			<option value="https://www.google.com/calendar/embed?title=Smart%20Calendar(TAMU)&amp;height=600&amp;wkst=1&amp;bgcolor=%23990000&amp;src=lh7knvrjaciru6jdeg9o991juk%40group.calendar.google.com&amp;color=%23B1440E&amp;src=n0skeepsrkqs41pn8e02apprpk%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=America%2FChicago">Texas A&M University--College Station</option>
+			<option value="https://www.google.com/calendar/embed?title=Smart%20Calendar(UT)&amp;height=600&amp;wkst=1&amp;bgcolor=%23cc6600&amp;src=3am1pdof47chgdfrfhf1gsc6hk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=l2fp9r34b196242g57gvuuuvo8%40group.calendar.google.com&amp;color=%23333333&amp;ctz=America%2FChicago">University of Texas--Austin</option>
+			
+		</select>
+		<!--input type="button" value="submit" onclick="jump(school.value)"-->			
+	</form>	
+	</div>
+</body>
+</html>

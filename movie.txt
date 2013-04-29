@@ -1,0 +1,1681 @@
+(lp0
+(dp1
+S'end'
+p2
+S'2012-10-01T20:00:00.000000-0500'
+p3
+sS'Title'
+p4
+VLars von Trier film series continues with "The Idiots"
+p5
+sS'Content'
+p6
+V"The Idiots" (1998) is Lars von Trier's utterly shocking Dogme movie: A group of perfectly intelligent young people decides to react to society's aimlessness and lack of creativity by living together in a community of "idiots." Pretending to be mentally disabled, they attempt to create anarchy everywhere they go.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/germanic/events/23886
+p7
+sS'start'
+p8
+S'2012-10-01T18:00:00.000000-0500'
+p9
+sS'link'
+p10
+Vhttp://www.utexas.edu/cola/depts/germanic/events/23886
+p11
+sS'location'
+p12
+VBurdine Hall (BUR) 337
+p13
+sa(dp14
+g2
+S'2012-10-04T20:00:00.000000-0500'
+p15
+sg4
+VVAC presents "Two Ships Passing" with Barbara Perea
+p16
+sg6
+VThe Visual Arts Center, in collaboration with the art publication Pastelegram, presents the fall 2012 edition of "Two Ships Passing" on the topic of sound art with invitee Barbara Perea, a Mexico City-based curator, critic and lecturer with a concentration in emerging media, sound and video art.\u000a\u000a\u000a\u000aStraddling the worlds of contemporary visual art and music, sound art includes diverse practices, from inventive machines, video and film, to performance and other possibilities. Sound art's boundaries are thus amorphous, posing particular complexities to those who wish to display such works or write about the field. These issues form the basis from which Barbara Perea, this edition's invitee, begins her conversation.\u000a\u000aSource\u000ahttp://utvac.org/programs/two-ships-passing-barbara-perea-mexico-city-based-curator
+p17
+sg8
+S'2012-10-04T18:30:00.000000-0500'
+p18
+sg10
+Vhttp://utvac.org/programs/two-ships-passing-barbara-perea-mexico-city-based-curator
+p19
+sg12
+VArt Building (ART) 1.120
+p20
+sa(dp21
+g2
+S'2012-10-05T21:00:00.000000-0500'
+p22
+sg4
+VBriscoe Center and KLRU screen "For the Sake of the Song"
+p23
+sg6
+VThe Briscoe Center for American History and KLRU host a screening of the award-winning documentary "For the Sake of the Song," which tells the story of Houston music venue Anderson Fair, which has cultivated some of America's most notable songwriters - including Lyle Lovett, Townes Van Zandt and Lucinda Williams. Screening followed by performances from musicians featured in the film.\u000a\u000a \u000a\u000aNow in its sixth decade, Anderson Fair is one of the oldest folk and acoustic music venues still open in the United States. The film maps out how a devoted family of volunteers, patrons and artists transformed a subversive coffeehouse into a unique music institution.\u000a\u000aSource\u000ahttp://www.cah.utexas.edu/news/press_release.php?press=press_sakeofthesong
+p24
+sg8
+S'2012-10-05T19:00:00.000000-0500'
+p25
+sg10
+Vhttp://www.cah.utexas.edu/news/press_release.php?press=press_sakeofthesong
+p26
+sg12
+VJones Communications Building B (CMB), KLRU Studio (2504-B Whitis Avenue)
+p27
+sa(dp28
+g2
+S'2012-10-05T22:00:00.000000-0500'
+p29
+sg4
+VFilm screening features Q&A with director Aurora Guerrero
+p30
+sg6
+VAttend a screening of "Mosquita y Mari," a coming-of-age story about the tender friendship between two young Chicanas. In a fast-paced immigrant community where dreams are often lost to economic survival, the two protagonists contemplate life when they stir unexpected desires in each other.\u000a\u000aSource\u000ahttp://www.mosquitaymari.com
+p31
+sg8
+S'2012-10-05T19:30:00.000000-0500'
+p32
+sg10
+Vhttp://www.mosquitaymari.com
+p33
+sg12
+VGarrison Hall (GAR) 0.102
+p34
+sa(dp35
+g2
+S'2012-10-07T16:00:00.000000-0500'
+p36
+sg4
+VTour "Into the Sacred City" exhibit at Blanton Museum
+p37
+sg6
+VBe among the first museum visitors to experience a selection of newly conserved Tibetan Buddhist thangkas and mandalas from the Theos Bernard Collection at the University of California, Berkeley Art Museum and Pacific Film Archive.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/public_tour_isc1
+p38
+sg8
+S'2012-10-07T15:00:00.000000-0500'
+p39
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/public_tour_isc1
+p40
+sg12
+VBlanton Museum of Art
+p41
+sa(dp42
+g2
+S'2012-10-08T20:30:00.000000-0500'
+p43
+sg4
+VLars von Trier film series continues
+p44
+sg6
+VThe Lars von Trier film festival continues with "Dancer in the Dark" (2000), winner of wthe Palme d'Or at the Cannes Film Festival, along with the Best Actress award for Bjork. The disturbing musical drama tells of Selma, a hard-working Czechoslovakian immigrant with a terrible secret and a passion for the music in classic Hollywood films.\u000a\u000aSource\u000ahttps://www.utexas.edu/cola/depts/germanic/events/23888
+p45
+sg8
+S'2012-10-08T18:00:00.000000-0500'
+p46
+sg10
+Vhttps://www.utexas.edu/cola/depts/germanic/events/23888
+p47
+sg12
+VBurdine Hall (BUR) 337
+p48
+sa(dp49
+g2
+S'2012-10-11T20:00:00.000000-0500'
+p50
+sg4
+VLatino filmmaking is panel topic
+p51
+sg6
+VEmerging filmmakers Miguel Alvarez, Sergio Carvajal, Maru Buendia-Senties and Alex Avila introduce their work and join a discussion about the state of Latino filmmaking.\u000a\u000a\u000a\u000aCo-moderators are Dr. Joseph D. Straubhaar (Amon G. Carter Professor of Communication, Department of Radio-TV-Film) and Jean Anne Lauer, Cine Las Americas.\u000a\u000a\u000a\u000aCo-sponsored by the UT Latino Media Studies program, Center for Mexican American Studies, Teresa Lozano Long Institute of Latin American Studies and the Department of Radio-Television-Film.\u000a\u000aSource\u000ahttp://communication.utexas.edu/sites/communication.utexas.edu/files/attachments/osa/LMS%20Latino%20Filmmaking%20Flier.pdf
+p52
+sg8
+S'2012-10-11T18:30:00.000000-0500'
+p53
+sg10
+Vhttp://communication.utexas.edu/sites/communication.utexas.edu/files/attachments/osa/LMS%20Latino%20Filmmaking%20Flier.pdf
+p54
+sg12
+VBelo Center for New Media (BMC) 1.202
+p55
+sa(dp56
+g2
+S'2012-10-11T22:00:00.000000-0500'
+p57
+sg4
+VMarco Bellocchio's "Vincere" screened
+p58
+sg6
+VI Film del Circolo presents Marco Bellocchio's award-winning "Vincere" (2009), a gripping presentation of the little-known story of Benito Mussolini's first wife, Ida Dalser, and their son Albino.\u000a\u000aSet against the backdrop of   Italy in the 1910s, 1920s and 1930s, "Vincere" says as much about fascist Italy and its ruler as it does about its central character. In Italian with English subtitles.
+p59
+sg8
+S'2012-10-11T20:00:00.000000-0500'
+p60
+sg10
+Nsg12
+VMezes Hall (MEZ) B0.306
+p61
+sa(dp62
+g2
+S'2012-10-14T16:00:00.000000-0500'
+p63
+sg4
+VTour "Into the Sacred City" exhibit at Blanton Museum
+p64
+sg6
+VBe among the first museum visitors to experience a selection of newly conserved Tibetan Buddhist thangkas and mandalas from the Theos Bernard Collection at the University of California, Berkeley Art Museum and Pacific Film Archive.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/public_tour_itsc
+p65
+sg8
+S'2012-10-14T15:00:00.000000-0500'
+p66
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/public_tour_itsc
+p67
+sg12
+VBlanton Museum of Art
+p68
+sa(dp69
+g2
+S'2012-10-15T21:00:00.000000-0500'
+p70
+sg4
+VLars von Trier film series continues with "Dogville"
+p71
+sg6
+V"Dogville" (2003) is the wonderful first film in Lars von Trier's "USA - Land of Opportunities" trilogy. Nicole Kidman plays a young fugitive in one of her best roles ever.\u000a\u000aSource\u000ahttps://www.utexas.edu/cola/depts/germanic/events/23891
+p72
+sg8
+S'2012-10-15T18:00:00.000000-0500'
+p73
+sg10
+Vhttps://www.utexas.edu/cola/depts/germanic/events/23891
+p74
+sg12
+VBurdine Hall (BUR) 337
+p75
+sa(dp76
+g2
+S'2012-10-17T21:00:00.000000-0500'
+p77
+sg4
+VComparative Americanists screen Cuban "Ciudad en Rojo" 
+p78
+sg6
+VThe Comparative Americanists host a screening of Rebeca Chavez's "Ciudad en Rojo" (Cuba, 2009). Discussion following the film led by Ph.D. candidate Enrique Gonzalez-Conty of the Spanish and Portuguese Department.\u000a\u000aSource\u000ahttps://www.facebook.com/events/368718413214898/
+p79
+sg8
+S'2012-10-17T19:00:00.000000-0500'
+p80
+sg10
+Vhttps://www.facebook.com/events/368718413214898/
+p81
+sg12
+VMezes Hall (MEZ) B0.306
+p82
+sa(dp83
+g2
+S'2012-10-18T20:30:00.000000-0500'
+p84
+sg4
+VTour "Into the Sacred City" exhibit at Blanton Museum
+p85
+sg6
+VBe among the first museum visitors to experience a selection of newly conserved Tibetan Buddhist thangkas and mandalas from the Theos Bernard Collection at the University of California, Berkeley Art Museum and Pacific Film Archive.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/public_tour_itsc1
+p86
+sg8
+S'2012-10-18T19:30:00.000000-0500'
+p87
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/public_tour_itsc1
+p88
+sg12
+VBlanton Museum of Art
+p89
+sa(dp90
+g2
+S'2012-10-21T21:00:00.000000-0500'
+p91
+sg4
+V"The Planets: An HD Odyssey" comes to PAC
+p92
+sg6
+VExperience a powerful performance of composer Gustav Holst's "The Planets" performed by the UT Wind Ensemble and Women of the UT Chamber Singers and Concert Chorale, paired with a high-definition film from NASA's latest exploration of the solar system.\u000a\u000aSource\u000ahttp://ev9.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=PLAN&linkID=tex-pac&shopperContext=&caller=&appCode=&RSRC=tex-pac&RDAT=plan-tpa-EVT
+p93
+sg8
+S'2012-10-21T19:00:00.000000-0500'
+p94
+sg10
+Vhttp://ev9.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=PLAN&linkID=tex-pac&shopperContext=&caller=&appCode=&RSRC=tex-pac&RDAT=plan-tpa-EVT
+p95
+sg12
+VPerforming Arts Center (PAC), Bass Concert Hall
+p96
+sa(dp97
+g2
+S'2012-10-22T20:30:00.000000-0500'
+p98
+sg4
+VLars von Trier film series continues
+p99
+sg6
+V"Manderlay" (2005) is the second movie in Lars von Trier's USA - Land of Opportunities trilogy. The frightening tale stars Bryce Dallas Howard, Danny Glover and Willem Dafoe, who, after leaving Dogville, wander into a gated Alabama community still operating under the tenets of slavery.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/germanic/events/23892
+p100
+sg8
+S'2012-10-22T18:00:00.000000-0500'
+p101
+sg10
+Vhttp://www.utexas.edu/cola/depts/germanic/events/23892
+p102
+sg12
+VBurdine Hall (BUR) 337
+p103
+sa(dp104
+g2
+S'2012-10-22T20:30:00.000000-0500'
+p105
+sg4
+V"My Father Evgeni" is Andrey Zagdansky documentary
+p106
+sg6
+VAttend a screening of the documentary "My Father Evgeni," directed by Andrey Zagdansky. The film explores the relationship and transcontinental correspondence between a father and son whose lives are steeped in the cinema. It includes beguiling footage from Soviet archives to create an intimate portrait of a family living through dramatic changes. In Russian with English subtitles.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/centers/creees/events/24476
+p107
+sg8
+S'2012-10-22T19:00:00.000000-0500'
+p108
+sg10
+Vhttp://www.utexas.edu/cola/centers/creees/events/24476
+p109
+sg12
+VCalhoun Hall (CAL) 100
+p110
+sa(dp111
+g2
+S'2012-10-23T20:15:00.000000-0500'
+p112
+sg4
+VTurkish film series screens Ahmet Uluçay film
+p113
+sg6
+VAttend a screening of "Karpuz kabugundan gemiler yapmak" (Boats out of watermelon rinds), directed by Ahmet Uluçay (2008, 97 minutes). Two adolescents who live in a small village, work in temporary summer jobs and have a passion for cinema. Made in the director's own village, the film's actors are all locals. In Turkish with English subtitles.\u000a\u000a\u000a\u000aThe Turkish Film Series is co-sponsored by the Department of Middle Eastern Studies and Austin-Antalya Sister Cities Committee.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/mes/events/23932
+p114
+sg8
+S'2012-10-23T18:30:00.000000-0500'
+p115
+sg10
+Vhttp://www.utexas.edu/cola/depts/mes/events/23932
+p116
+sg12
+VMezes Hall (MEZ) 1.306
+p117
+sa(dp118
+g2
+S'2012-10-25T22:00:00.000000-0500'
+p119
+sg4
+VItalian thriller-horror "Almost Blue" screened
+p120
+sg6
+VI Film del Circolo celebrates Halloween with the screening of "Almost Blue," an award winning thriller-horror by Alex Infascelli (2000). A serial killer called the Iguana is terrorizing Bologna in this classic cat and mouse thriller exploring the links between rookie policewoman Grazia, a protean psychokiller and young blind man Simone, part online busybody, part oracle. In Italian with English subtitles.
+p121
+sg8
+S'2012-10-25T20:00:00.000000-0500'
+p122
+sg10
+Nsg12
+VMezes Hall (MEZ) B0.306
+p123
+sa(dp124
+g2
+S'2012-10-27T16:00:00.000000-0500'
+p125
+sg4
+VTour "Into the Sacred City" exhibit at Blanton Museum
+p126
+sg6
+VBe among the first museum visitors to experience a selection of newly conserved Tibetan Buddhist thangkas and mandalas from the Theos Bernard Collection at the University of California, Berkeley Art Museum and Pacific Film Archive.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/public_tour_itsc2
+p127
+sg8
+S'2012-10-27T15:00:00.000000-0500'
+p128
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/public_tour_itsc2
+p129
+sg12
+VBlanton Museum of Art
+p130
+sa(dp131
+g2
+S'2012-10-29T19:45:00.000000-0500'
+p132
+sg4
+VLars von Trier film series continues
+p133
+sg6
+VIn "The Boss of It All" (2006) groundbreaking Danish director Lars von Trier shows his comedic side. The funny, thought-provoking movie tells of a business owner who has to make up lies to cover up for having invented a nonexistent company president to run his business.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/germanic/events/23893
+p134
+sg8
+S'2012-10-29T18:00:00.000000-0500'
+p135
+sg10
+Vhttp://www.utexas.edu/cola/depts/germanic/events/23893
+p136
+sg12
+VBurdine Hall (BUR) 337
+p137
+sa(dp138
+g2
+S'2012-11-01T20:30:00.000000-0500'
+p139
+sg4
+VBruce Sterling launches 2012 Flair Symposium
+p140
+sg6
+VAuthor and futurist Bruce Sterling delivers the keynote lecture of the Harry Ransom Center's Flair Symposium "Visions of the Future." Sterling is an American science fiction author best known for his novels and his work on the Mirrorshades anthology, which helped define the cyberpunk genre. Seating is limited. Line forms upon arrival of the first patron, and doors open 30 minutes in advance. Paid registrants for Flair Symposium given priority.\u000a\u000a\u000a\u000aThe 2012 Flair Symposium "Visions of the Future" continues Friday, Nov. 2, and Saturday, Nov. 3, bringing together historians, architects, industrial designers and visionaries in the fields of science fiction, film, theater and future studies to explore the ways the future has been imagined over time. Payment and pre-registration for the symposium is required.\u000a\u000aSource\u000ahttp://www.hrc.utexas.edu/flair/
+p141
+sg8
+S'2012-11-01T19:30:00.000000-0500'
+p142
+sg10
+Vhttp://www.hrc.utexas.edu/flair/
+p143
+sg12
+VHomer Rainey Hall (HRH), Jessen Auditorium
+p144
+sa(dp145
+g2
+S'2012-11-03T21:30:00.000000-0500'
+p146
+sg4
+VTurkish Film Series presents "Fetih  1453"
+p147
+sg6
+VThe Turkish Film Series screens "Fetih 1453" (Conquest 1453, dir. Faruk Aksoy, 2012, 160 min.). "Conquest 1453" is the new spear-and-molten-pitch swashbuckler movie that had Turkish viewers storming their local cinemas in record-breaking numbers. In Turkish with English subtitles.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/mes/events/23933
+p148
+sg8
+S'2012-11-03T18:30:00.000000-0500'
+p149
+sg10
+Vhttp://www.utexas.edu/cola/depts/mes/events/23933
+p150
+sg12
+VMezes Hall (MEZ) 1.306
+p151
+sa(dp152
+g2
+S'2012-11-04T16:00:00.000000-0600'
+p153
+sg4
+VTour Blanton exhibit: Into the Sacred City
+p154
+sg6
+VBe among the first museum visitors to experience a selection of newly conserved Tibetan Buddhist thangkas and mandalas from the Theos Bernard Collection at the University of California, Berkeley Art Museum and Pacific Film Archive.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city1
+p155
+sg8
+S'2012-11-04T15:00:00.000000-0600'
+p156
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city1
+p157
+sg12
+VBlanton Museum of Art
+p158
+sa(dp159
+g2
+S'2012-11-05T20:00:00.000000-0600'
+p160
+sg4
+VThe Lars von Trier film series continues
+p161
+sg6
+V"Antichrist" (2009) is Lars von Trier's most brutal, disturbing movie. Combining themes of loss and eroticism, it is a rare and controversial piece of art, not for everyone. With Willem Dafoe and Charlotte Gainsbourg.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/germanic/events/23894
+p162
+sg8
+S'2012-11-05T18:00:00.000000-0600'
+p163
+sg10
+Vhttp://www.utexas.edu/cola/depts/germanic/events/23894
+p164
+sg12
+VBurdine Hall (BUR) 337
+p165
+sa(dp166
+g2
+S'2012-11-07T20:00:00.000000-0600'
+p167
+sg4
+V"The Matsugane Potshot Affair": Japanese film screened
+p168
+sg6
+VAttend a screening of the popular contemporary Japanese 35 mm film "The Matsugane Potshot Affair" (dir. Yamashita Nobuhiro, 2006), a deliciously absurd dark comedy about two brothers who find themselves catapulted onto different sides of the law after a woman's body is discovered on the outskirts of their dead-end hometown of Matsugane. \u000a\u000a\u000a\u000aGenerously sponsored by The Japan Foundation, as well as the Departments of Asian Studies and Radio-Television-Film.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/asianstudies/events/24846
+p169
+sg8
+S'2012-11-07T18:00:00.000000-0600'
+p170
+sg10
+Vhttp://www.utexas.edu/cola/depts/asianstudies/events/24846
+p171
+sg12
+VTexas Union Building (UNB), theater
+p172
+sa(dp173
+g2
+S'2012-11-12T20:15:00.000000-0600'
+p174
+sg4
+VFinal movie in Lars von Trier film series screened
+p175
+sg6
+V"Melancholia" (2011) is the most recent Lars von Trier movie and the last in the film series. In this beautiful picture poem and meditation on depression and the end of the world, Justine is an emotionally troubled newlywed whose sister Claire throws her a lavish wedding party as an impending apocalypse nears.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/germanic/events/23895
+p176
+sg8
+S'2012-11-12T18:00:00.000000-0600'
+p177
+sg10
+Vhttp://www.utexas.edu/cola/depts/germanic/events/23895
+p178
+sg12
+VBurdine Hall (BUR) 337
+p179
+sa(dp180
+g2
+S'2012-11-14T20:00:00.000000-0600'
+p181
+sg4
+V"A Stranger of Mine": Japanese film screened
+p182
+sg6
+VAttend a screening of the popular contemporary Japanese 35 mm film "A Stranger of Mine" (dir. Uchida Kenji, 2004), the interlocking story of one night in the lives of five lost souls in Tokyo - two lovers, an ex-wife, a private eye and a mob boss - that includes extortion plots, a stack of missing money and a gang of angry yakuza.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/asianstudies/events/24851
+p183
+sg8
+S'2012-11-14T18:00:00.000000-0600'
+p184
+sg10
+Vhttp://www.utexas.edu/cola/depts/asianstudies/events/24851
+p185
+sg12
+VTexas Union Building (UNB), theater 2.228
+p186
+sa(dp187
+g2
+S'2012-11-15T13:30:00.000000-0600'
+p188
+sg4
+VTour "Into the Sacred City" exhibit at Blanton
+p189
+sg6
+VBe among the first museum visitors to experience a selection of newly conserved Tibetan Buddhist thangkas and mandalas from the Theos Bernard Collection at the University of California, Berkeley Art Museum and Pacific Film Archive.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/public_tour_itsc3
+p190
+sg8
+S'2012-11-15T12:30:00.000000-0600'
+p191
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/public_tour_itsc3
+p192
+sg12
+VBlanton Museum of Art
+p193
+sa(dp194
+g2
+S'2012-11-15T20:30:00.000000-0600'
+p195
+sg4
+VTour "Into the Sacred City" exhibit at Blanton
+p196
+sg6
+VBe among the first museum visitors to experience a selection of newly conserved Tibetan Buddhist thangkas and mandalas from the Theos Bernard Collection at the University of California, Berkeley Art Museum and Pacific Film Archive.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city2
+p197
+sg8
+S'2012-11-15T19:30:00.000000-0600'
+p198
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city2
+p199
+sg12
+VBlanton Museum of Art
+p200
+sa(dp201
+g2
+S'2012-11-28T20:00:00.000000-0600'
+p202
+sg4
+V"Dog in a Sidecar": Popular Japanese film screened
+p203
+sg6
+VAttend a screening of the popular contemporary Japanese 35 mm film "Dog in a Sidecar" (dir. Negishi Kichitaro, 2008), the heartwarming story of an unexpected friendship that grows between the subdued 10-year old Kaoru and her father's unconventional and irrepressible mistress.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/asianstudies/events/24844
+p204
+sg8
+S'2012-11-28T18:00:00.000000-0600'
+p205
+sg10
+Vhttp://www.utexas.edu/cola/depts/asianstudies/events/24844
+p206
+sg12
+VTexas Union Theatre (UNB) 2.228
+p207
+sa(dp208
+g2
+S'2012-11-29T13:30:00.000000-0600'
+p209
+sg4
+VTour "Into the Sacred City" exhibit at Blanton
+p210
+sg6
+VBe among the first museum visitors to experience a selection of newly conserved Tibetan Buddhist thangkas and mandalas from the Theos Bernard Collection at the University of California, Berkeley Art Museum and Pacific Film Archive.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city3
+p211
+sg8
+S'2012-11-29T12:30:00.000000-0600'
+p212
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city3
+p213
+sg12
+VBlanton Museum of Art
+p214
+sa(dp215
+g2
+S'2012-11-29T20:00:00.000000-0600'
+p216
+sg4
+VAmerican Studies Film Series screens "American Splendor"
+p217
+sg6
+VThe American Studies Film Series hosts a free screening of Shari Springer Berman and Robert Pulcini's 2003 film "American Splendor," a humorous look at everyday life and the ever-illusory American Dream. American Studies doctoral student Andrew Friedenthal introduces the film with a brief talk on the place of comic books in our culture.\u000a\u000aSource\u000ahttps://www.facebook.com/events/507175632635182/?ref=ts&fref=ts
+p218
+sg8
+S'2012-11-29T18:00:00.000000-0600'
+p219
+sg10
+Vhttps://www.facebook.com/events/507175632635182/?ref=ts&fref=ts
+p220
+sg12
+VHogg Building (WCH) 1.120
+p221
+sa(dp222
+g2
+S'2012-11-29T20:30:00.000000-0600'
+p223
+sg4
+VTurkish Film Series presents "Vavien"
+p224
+sg6
+V"Vavien" is a noir comedy that delicately tells the story of a small-town family in which the unhappy father is in financial crisis and hopelessly in love with a nightclub singer. Directed by Yagmu and Durul Taylan, 2010, 100 minutes. In Turkish with English subtitles.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/mes/events/23936
+p225
+sg8
+S'2012-11-29T18:30:00.000000-0600'
+p226
+sg10
+Vhttp://www.utexas.edu/cola/depts/mes/events/23936
+p227
+sg12
+VCalhoun Hall (CAL) 100
+p228
+sa(dp229
+g2
+S'2012-11-29T22:00:00.000000-0600'
+p230
+sg4
+VLast Italian film of the semester screened
+p231
+sg6
+VI Film del Circolo concludes its fall screenings with Rocco Papaleo's "Basilicata Coast to Coast" (2010), a musical road movie filmed against the backdrop of some of southern Italy's most beautiful countryside. In Italian with ITALIAN subtitles.\u000a\u000a\u000a\u000aWhen accepted into a music festival, Nicola and his band decide that a 10-day cross-country journey on foot will act as a publicity-seeking, chemistry-building exercise from which the band can only emerge better off. Predictably, the end of the characters' odd journey from one sea to another turns out to be not as important as the journey itself, through which they will evolve and learn much about themselves and the meaning of their lives.
+p232
+sg8
+S'2012-11-29T20:00:00.000000-0600'
+p233
+sg10
+Nsg12
+VMezes Hall (MEZ) B0.306
+p234
+sa(dp235
+g2
+S'2012-12-01T16:00:00.000000-0600'
+p236
+sg4
+VBlanton offers tour of "Into the Sacred City"
+p237
+sg6
+VBe among the first museum visitors to see a selection of newly conserved Tibetan Buddhist thangkas and mandalas from the Theos Bernard Collection at the University of California, Berkeley Art Museum and Pacific Film Archive.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city4
+p238
+sg8
+S'2012-12-01T15:00:00.000000-0600'
+p239
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city4
+p240
+sg12
+VBlanton Museum of Art
+p241
+sa(dp242
+g2
+S'2012-12-05T20:00:00.000000-0600'
+p243
+sg4
+V"Hanging Garden": Contemporary Japanese film screened
+p244
+sg6
+VAttend a screening of "Hanging Garden" (dir. Toyoda Toshiaki, 2005, 35 mm, subtitled), a drama about an unusual family that practices a fanatical brand of honesty with no taboo subjects, from sex to childbirth. Yet each of the family's members has a secret that gnaws away at them and finally explodes at a drunken birthday celebration.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/asianstudies/events/24852
+p245
+sg8
+S'2012-12-05T18:00:00.000000-0600'
+p246
+sg10
+Vhttp://www.utexas.edu/cola/depts/asianstudies/events/24852
+p247
+sg12
+VTexas Union Building (UNB), Texas Union Theatre 2.228
+p248
+sa(dp249
+g2
+S'2012-12-13T21:00:00.000000-0600'
+p250
+sg4
+VSci-fi film "Things to Come" (1936) screened at HRC
+p251
+sg6
+VIn conjunction with the exhibition "I Have Seen the Future: Norman Bel Geddes Design America," the Harry Ransom Center screens the Bel Geddes-influenced film "Things to Come" (1936). Written by H.G. Wells and directed by William Cameron Menzies, the British science-fiction film is a loose adaptation of Wells' 1933 novel "The Shape of Things to Come" and his 1931 nonfiction work "The Work, Wealth and Happiness of Mankind."\u000a\u000a\u000a\u000aSeating is limited. Line forms upon arrival of the first patron, and doors open 30 minutes in advance.
+p252
+sg8
+S'2012-12-13T19:00:00.000000-0600'
+p253
+sg10
+Nsg12
+VHarry Ransom Center (HRC)
+p254
+sa(dp255
+g2
+S'2012-12-15T16:00:00.000000-0600'
+p256
+sg4
+VTour "Into the Sacred City" exhibit at Blanton
+p257
+sg6
+VView a selection of newly conserved Tibetan Buddhist thangkas and mandalas from the Theos Bernard Collection at the University of California, Berkeley Art Museum and Pacific Film Archive.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city5
+p258
+sg8
+S'2012-12-15T15:00:00.000000-0600'
+p259
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city5
+p260
+sg12
+VBlanton Museum of Art
+p261
+sa(dp262
+g2
+S'2012-12-16T16:00:00.000000-0600'
+p263
+sg4
+VTour "Into the Sacred City" exhibit at Blanton
+p264
+sg6
+VBe among the first museum visitors to view a selection of newly conserved Tibetan Buddhist thangkas and mandalas from the Theos Bernard Collection at the University of California, Berkeley Art Museum and Pacific Film Archive.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/public_tour_into
+p265
+sg8
+S'2012-12-16T15:00:00.000000-0600'
+p266
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/public_tour_into
+p267
+sg12
+VBlanton Museum of Art
+p268
+sa(dp269
+g2
+S'2012-12-20T13:30:00.000000-0600'
+p270
+sg4
+VTour "Into the Sacred City" exhibit at Blanton
+p271
+sg6
+VBe among the first museum visitors to experience a selection of newly conserved Tibetan Buddhist thangkas and mandalas from the Theos Bernard Collection at the University of California, Berkeley Art Museum and Pacific Film Archive.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city6
+p272
+sg8
+S'2012-12-20T12:30:00.000000-0600'
+p273
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city6
+p274
+sg12
+VBlanton Museum of Art
+p275
+sa(dp276
+g2
+S'2013-01-05T17:00:00.000000-0600'
+p277
+sg4
+VBlanton Museum screens "The Rake's Progress"
+p278
+sg6
+VThis visually striking adaptation of Stravinsky's opera "The Rake's Progress" is based on the series of prints by William Hogarth currently on display at the Blanton. The film sets the opera in the modern American West, with oil derricks and swimming pools in the backdrop, and singers bathed in neon light.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/blanton_screening_the_rakes_progress
+p279
+sg8
+S'2013-01-05T14:00:00.000000-0600'
+p280
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/blanton_screening_the_rakes_progress
+p281
+sg12
+VBlanton Museum of Art, Edgar A. Smith Building (EAS), auditorium
+p282
+sa(dp283
+g2
+S'2013-01-06T17:00:00.000000-0600'
+p284
+sg4
+VTour "Into the Sacred City" exhibit at Blanton
+p285
+sg6
+VBe among the first museum visitors to experience a selection of newly conserved Tibetan Buddhist thangkas and mandalas from the Theos Bernard Collection at the University of California, Berkeley Art Museum and Pacific Film Archive.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city7
+p286
+sg8
+S'2013-01-06T16:00:00.000000-0600'
+p287
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city7
+p288
+sg12
+VBlanton Museum of Art
+p289
+sa(dp290
+g2
+S'2013-01-10T13:30:00.000000-0600'
+p291
+sg4
+VTour "Into the Sacred City" exhibit at Blanton
+p292
+sg6
+VBe among the first museum visitors to experience a selection of newly conserved Tibetan Buddhist thangkas and mandalas from the Theos Bernard Collection at the University of California, Berkeley Art Museum and Pacific Film Archive.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city8
+p293
+sg8
+S'2013-01-10T12:30:00.000000-0600'
+p294
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city8
+p295
+sg12
+VBlanton Museum of Art
+p296
+sa(dp297
+g2
+S'2013-01-12T16:00:00.000000-0600'
+p298
+sg4
+VTour "Into the Sacred City" exhibit at Blanton
+p299
+sg6
+VBe among the first museum visitors to experience a selection of newly conserved Tibetan Buddhist thangkas and mandalas from the Theos Bernard Collection at the University of California, Berkeley Art Museum and Pacific Film Archive.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city9
+p300
+sg8
+S'2013-01-12T15:00:00.000000-0600'
+p301
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/public_tour_into_the_sacred_city9
+p302
+sg12
+VBlanton Museum of Art
+p303
+sa(dp304
+g2
+S'2013-01-31T20:30:00.000000-0600'
+p305
+sg4
+VTurkish Film Series screens "My Grandfather's People"
+p306
+sg6
+VAttend a screening of "Dedemin Insanlari" (My Grandfather's People, 2011, dir. Cagan Irmak). Inspired by Irmak's own childhood and family history, this warm family drama takes place among the  challenging socio-political period of the late 1970s and early 1980s in Turkey while relating memories of the 1924 population exchange agreement between Turkey and Greece. Runs 123 min. In Turkish with English subtitles.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/mes/events/25426
+p307
+sg8
+S'2013-01-31T18:30:00.000000-0600'
+p308
+sg10
+Vhttp://www.utexas.edu/cola/depts/mes/events/25426
+p309
+sg12
+VMezes Hall (MEZ) 1.306
+p310
+sa(dp311
+g2
+S'2013-02-06T21:30:00.000000-0600'
+p312
+sg4
+VView "Last Chance for Eden" with director Lee Min Wah
+p313
+sg6
+VAcclaimed diversity trainer and speaker Lee Mun Wah presents a screening of his film "Last Chance for Eden," a documentary in which nine men and women discuss the issues of racism and sexism, examining the impact of society's stereotypes on their lives in the workplace, their personal relationships and their families and communities.\u000a\u000aSource\u000ahttp://www.facebook.com/UTHousingandFood/events#!/events/525966144091008/
+p314
+sg8
+S'2013-02-06T18:30:00.000000-0600'
+p315
+sg10
+Vhttp://www.facebook.com/UTHousingandFood/events#!/events/525966144091008/
+p316
+sg12
+VTexas Union Building (UNB), ballroom 3.202
+p317
+sa(dp318
+g2
+S'2013-02-06T22:00:00.000000-0600'
+p319
+sg4
+VStalin film series begins with "Stalin"
+p320
+sg6
+VThe Center for Russian, East European and Eurasian Studies presents the Stalin Film Series, a collection of movies depicting the lives and struggles of Russians under the rule of Joseph Stalin. Tonight's film, "Stalin" (1992), starring Robert Duval, documents Stalin's rise from obscure revolutionary to feared leader of Russia. In English. Runs 2 hrs, 57 min.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/centers/creees/
+p321
+sg8
+S'2013-02-06T20:00:00.000000-0600'
+p322
+sg10
+Vhttp://www.utexas.edu/cola/centers/creees/
+p323
+sg12
+VMezes Hall (MEZ) B0.306
+p324
+sa(dp325
+g2
+S'2013-02-13T21:00:00.000000-0600'
+p326
+sg4
+VVAC presents "Screening Room" episode with Ed Emshwiller
+p327
+sg6
+V"Screening Room," a 1970s television series that aired in Boston, invited independent filmmakers to screen and discuss their work on a commercial affliate station. Attend an episode of "Screening Room" featuring Ed Emshwiller, a major figure in avant-garde cinema and the experimental film movement of the 1960s and 1970s. He was later a pioneer of computer-generated video, combining technology and art.\u000a\u000a\u000a\u000aPresented as part of the Visual Arts Center's Focus Group series, which centers on experimental film in its various formats, including but not limited to 16mm, 8mm and digital video.\u000a\u000aSource\u000ahttp://utvac.org/programs/focus-group-screening-room-featuring-ed-emshwiller
+p328
+sg8
+S'2013-02-13T19:00:00.000000-0600'
+p329
+sg10
+Vhttp://utvac.org/programs/focus-group-screening-room-featuring-ed-emshwiller
+p330
+sg12
+VArt Building (ART) 1.102
+p331
+sa(dp332
+g2
+S'2013-02-16T20:30:00.000000-0600'
+p333
+sg4
+VTurkish Film Series presents "Shadows and Faces"
+p334
+sg6
+VThe Turkish Film Series presents a screening of "Gölgeler ve Suretler" (Shadows and Faces, 2010, 116 minutes), by director Dervis Zaim. In "Shadows and Faces," Turkish Cypriot filmmaker Zaim tackles the tragic intercommunal violence faced by Turkish Cypriots in the 1960s through the story of a father and daughter. Turkish with English subtitles.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/mes/events/25427
+p335
+sg8
+S'2013-02-16T18:30:00.000000-0600'
+p336
+sg10
+Vhttp://www.utexas.edu/cola/depts/mes/events/25427
+p337
+sg12
+VMezes Hall (MEZ) 1.306
+p338
+sa(dp339
+g2
+S'2013-02-19T20:30:00.000000-0600'
+p340
+sg4
+VAmerican Studies Film Series screens "Good Hair"
+p341
+sg6
+VIn celebration of Black History Month, the American Studies Film Series hosts a free screening of Jeff Stilson's 2009 docu-comedy "Good Hair." The film follows comedian Chris Rock on an international journey to better understand the African American hair industry, prompted by his young daughter's question, "Daddy, how comedon't have good hair?" American studies PhD student Jackie Smith gives a brief introduction to the film.\u000a\u000a\u000a\u000aWatch the trailer here.\u000a\u000aSource\u000ahttps://www.facebook.com/events/330186997083266/
+p342
+sg8
+S'2013-02-19T18:30:00.000000-0600'
+p343
+sg10
+Vhttps://www.facebook.com/events/330186997083266/
+p344
+sg12
+VCalhoun Hall (CAL) 100
+p345
+sa(dp346
+g2
+S'2013-02-20T20:30:00.000000-0600'
+p347
+sg4
+V"The Invisible War" screened
+p348
+sg6
+VAttend a screening of "The Invisible War," Academy Award nominee for Best Documentary Feature. The documentary was made in the hope of exposing the epidemic of sexual assault in the military. This screening is a 60-minute version of the film, followed by a panel discussion and a reception with light refreshments. Doors open at 6 p.m. Arrive early.\u000a\u000aSource\u000ahttp://www.facebook.com/events/474078235984712
+p349
+sg8
+S'2013-02-20T18:30:00.000000-0600'
+p350
+sg10
+Vhttp://www.facebook.com/events/474078235984712
+p351
+sg12
+VSchool of Social Work (SSW), Utopia Theatre
+p352
+sa(dp353
+g2
+S'2013-02-21T21:30:00.000000-0600'
+p354
+sg4
+VRTF community screenings series presents "High Noon"
+p355
+sg6
+VThe Radio-Television-Film (RTF) Department kicks off a four-part series of free community screenings with Charles Ramirez Berg (Joe M. Dealey Sr. professor in Media studies) presenting the classic Hollywood Western "High Noon" (1952), starring Gary Cooper, Grace Kelly and Katy Jurado. A Q&A and brief discussion of cinematic techniques follows the screening.\u000a\u000a\u000a\u000aA former National Endowment for the Humanities Fellow, Ramirez Berg was recently appointed to the National Film Preservation Board of The Library of Congress. He is a member of the Academy of Distinguished Teachers and has won every major teaching award at The University of Texas.\u000a\u000aSource\u000ahttp://rtf.utexas.edu/events/ut-rtf-community-screenings-series
+p356
+sg8
+S'2013-02-21T19:00:00.000000-0600'
+p357
+sg10
+Vhttp://rtf.utexas.edu/events/ut-rtf-community-screenings-series
+p358
+sg12
+VBelo Center for New Media (BMC), auditorium
+p359
+sa(dp360
+g2
+S'2013-02-27T22:30:00.000000-0600'
+p361
+sg4
+VStalin film series presents "The Inner Circle"
+p362
+sg6
+VThe Stalin Film Series presents "The Inner Circle" (1991), a film by Russian director Andrei Konchalovsky that tells the story of Stalin's private projectionist and KGB officer Ivan Sanchin. The film will be introduced by History Professor Joan Neuberger. In English, 137 minutes.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/centers/creees/
+p363
+sg8
+S'2013-02-27T19:30:00.000000-0600'
+p364
+sg10
+Vhttp://www.utexas.edu/cola/centers/creees/
+p365
+sg12
+VMezes Hall (MEZ) B0.306
+p366
+sa(dp367
+g2
+S'2013-03-06T20:30:00.000000-0600'
+p368
+sg4
+VTurkish Film Series screens Pelin Esmer film
+p369
+sg6
+VIn "11'e 10 kala" (10 to 11), a 2009 film by director Pelin Esmer, elderly collector Mithat (Mithat Esmer) and newly arrived concierge Ali (Nejat Isler) find their lonely lives increasingly intertwined both with each other and with the city Istanbul itself as they become the last two inhabitants of a condemned apartment block. In Turkish with English subtitles; 110 minutes.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/mes/events/25428
+p370
+sg8
+S'2013-03-06T18:30:00.000000-0600'
+p371
+sg10
+Vhttp://www.utexas.edu/cola/depts/mes/events/25428
+p372
+sg12
+VMezes Hall (MEZ) 1.306
+p373
+sa(dp374
+g2
+S'2013-03-06T22:30:00.000000-0600'
+p375
+sg4
+VStalin film series presents "Within the Whirlwind"
+p376
+sg6
+VThe Stalin Film Series presents "Within the Whirlwind" (2010), which tells the true story of literature professor Evgenia Ginzburg, who was sent to 10 years' hard labor in a Siberian gulag in Siberia. After losing everything and no longer wishing to live, she meets the camp doctor and begins to come back to life. Dialogue in English; 90 minutes.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/centers/creees/
+p377
+sg8
+S'2013-03-06T19:30:00.000000-0600'
+p378
+sg10
+Vhttp://www.utexas.edu/cola/centers/creees/
+p379
+sg12
+VMezes Hall (MEZ) B0.306
+p380
+sa(dp381
+g2
+S'2013-03-06T23:00:00.000000-0600'
+p382
+sg4
+VExperimental documentary "The Great Northwest" screened
+p383
+sg6
+VThe Mad Stork Cinema premieres Matt McCormick's newest film, "The Great Northwest," along with other short experimental documentaries. "The Great Northwest" re-creates a 3,200 mile road-trip made in 1958 by four Seattle women. Work by local filmmakers screened as well.\u000a\u000a\u000a\u000aMad Stork Cinema is a student group committed to the advancement of the experimental film and video arts.\u000a\u000aSource\u000ahttp://www.themadstorkcinema.tumblr.com
+p384
+sg8
+S'2013-03-06T21:00:00.000000-0600'
+p385
+sg10
+Vhttp://www.themadstorkcinema.tumblr.com
+p386
+sg12
+VJones Communication Building B (CMB) Studio 4D
+p387
+sa(dp388
+g2
+S'2013-03-07T19:00:00.000000-0600'
+p389
+sg4
+VContemporary Czech Cinema screens film with producer Q&A
+p390
+sg6
+VThe Department of Slavic and Eurasian Studies presents "Kuky Returns" (2010), a film by renowned Czech director Jan Sverak. This charming family film combines puppet animation, slow motion and live action. A Q&A with producer Jeffrey Brown follows.   \u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/slavic/events/26030
+p391
+sg8
+S'2013-03-07T17:00:00.000000-0600'
+p392
+sg10
+Vhttp://www.utexas.edu/cola/depts/slavic/events/26030
+p393
+sg12
+VCalhoun Hall (CAL) 422
+p394
+sa(dp395
+g2
+S'2013-03-07T22:00:00.000000-0600'
+p396
+sg4
+VSouth Asia Institute screens "Jai Bhim Comrade"
+p397
+sg6
+VAnand Patwardhan's film "Jai Bhim Comrade" took 14 years to complete. Beginning with an incident at Ramabai Colony in Mumbai where 10 Dalits were shot dead by the police in 1997, the film goes on to explore the music of protest of those who were treated as "untouchables" by a caste hierarchy that has ruled the Indian sub-continent for thousands of years.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/insts/southasia/events/25273
+p398
+sg8
+S'2013-03-07T18:00:00.000000-0600'
+p399
+sg10
+Vhttp://www.utexas.edu/cola/insts/southasia/events/25273
+p400
+sg12
+VApplied Computational Engineering & Sciences Building (ACE), Avaya Auditorium 2.302
+p401
+sa(dp402
+g2
+S'2013-03-18T20:45:00.000000-0500'
+p403
+sg4
+VFilm about 1936 Berlin Olympics screened
+p404
+sg6
+V"Berlin 36" tells the story of the Nazis' attempt to keep Jewish athletes out of the 1936 Olympics. When they sabotage a German Jewish high jumper and replace her with a woman who harbors her own secret, the pair become friends and symbolically challenge an empire.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/centers/scjs/events/26328
+p405
+sg8
+S'2013-03-18T19:00:00.000000-0500'
+p406
+sg10
+Vhttp://www.utexas.edu/cola/centers/scjs/events/26328
+p407
+sg12
+VCollege of Liberal Arts Building (CLA), Julius Glickman Conference Center 1.302B
+p408
+sa(dp409
+g2
+S'2013-03-20T22:30:00.000000-0500'
+p410
+sg4
+VStalin film series screens "East-West"
+p411
+sg6
+VThe Stalin Film Series presents "East-West," winner of a Golden Globe for Best Foreign Language Film in 1999. A naive Russian émigré and his family repatriate to the post-World War II Soviet Union only to discover, too late, the full truth about life under socialism. In French and Russian with English subtitles. Runs 120 min.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/centers/creees/
+p412
+sg8
+S'2013-03-20T19:30:00.000000-0500'
+p413
+sg10
+Vhttp://www.utexas.edu/cola/centers/creees/
+p414
+sg12
+VMezes Hall (MEZ) B0.306
+p415
+sa(dp416
+g2
+S'2013-03-21T21:30:00.000000-0500'
+p417
+sg4
+VRTF presents "The Big Sleep" with Dr. Caroline Frick
+p418
+sg6
+VDr. Caroline Frick presents "Interpreting 'The Big Sleep': How Film Preservation Can Unlock Film Mysteries." \u000a\u000a\u000a\u000aKnown and beloved as one of the most iconic film noirs of the 1940s, director Howard Hawks's movie continues to entertain audiences decades after its production. Frick, RTF assistant professor and film archivist, discusses why film history and preservation can help explain the movie's mysterious plot.\u000a\u000aSource\u000ahttp://rtf.utexas.edu/events/ut-rtf-community-screenings-series
+p419
+sg8
+S'2013-03-21T19:00:00.000000-0500'
+p420
+sg10
+Vhttp://rtf.utexas.edu/events/ut-rtf-community-screenings-series
+p421
+sg12
+VBelo Center for New Media (BMC), auditorium
+p422
+sa(dp423
+g2
+S'2013-03-21T22:00:00.000000-0500'
+p424
+sg4
+VChile's Teatrocinema presents "Sin Sangre"
+p425
+sg6
+VIn this ArtesAméricas performance, Teatrocinema, Chile's inventive and original theater company creates an ingenious fusion of cinema and theater with their premier of  "Sin Sangre" (Without Blood), adapted from a novella by Alessandro Baricco with all the darkness of film noir and tension of a 1960s B-movie thriller. In Spanish with English supertitles.\u000a\u000aSource\u000ahttp://ev9.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=TEA&linkID=tex-pac&shopperContext=&caller=&appCode=&RSRC=tex-pac&RDAT=teaT-tpa-EVT
+p426
+sg8
+S'2013-03-21T20:00:00.000000-0500'
+p427
+sg10
+Vhttp://ev9.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=TEA&linkID=tex-pac&shopperContext=&caller=&appCode=&RSRC=tex-pac&RDAT=teaT-tpa-EVT
+p428
+sg12
+VPerforming Arts Center (PAC), McCullough Theatre
+p429
+sa(dp430
+g2
+S'2013-03-22T22:00:00.000000-0500'
+p431
+sg4
+VChile's Teatrocinema presents "Sin Sangre"
+p432
+sg6
+VIn this ArtesAméricas performance, Teatrocinema, Chile's inventive and original theater company creates an ingenious fusion of cinema and theater with their premier of  "Sin Sangre" (Without Blood), adapted from a novella by Alessandro Baricco with all the darkness of film noir and tension of a 1960s B-movie thriller. In Spanish with English supertitles.\u000a\u000aSource\u000ahttp://ev9.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=TEA&linkID=tex-pac&shopperContext=&caller=&appCode=&RSRC=tex-pac&RDAT=teaT-tpa-EVT
+p433
+sg8
+S'2013-03-22T20:00:00.000000-0500'
+p434
+sg10
+Vhttp://ev9.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=TEA&linkID=tex-pac&shopperContext=&caller=&appCode=&RSRC=tex-pac&RDAT=teaT-tpa-EVT
+p435
+sg12
+VPerforming Arts Center (PAC), McCullough Theatre
+p436
+sa(dp437
+g2
+S'2013-03-27T23:00:00.000000-0500'
+p438
+sg4
+VLumiere Bros. film screened, with experimental revisions
+p439
+sg6
+VMad Stork Cinema presents a screening devoted to the genesis of the film "Workers Leaving the Factory," by the Lumiere Brothers. The screening includes the original Lumiere piece, along with several other works - experimental revisions that tackle this moment of origin and honor, reinvent and explode the first motion picture ever made. Screenings in 16mm and digital video.\u000a\u000aSource\u000ahttp://themadstorkcinema.tumblr.com
+p440
+sg8
+S'2013-03-27T21:00:00.000000-0500'
+p441
+sg10
+Vhttp://themadstorkcinema.tumblr.com
+p442
+sg12
+VJones Communication Building B (CMB), Studio 4D
+p443
+sa(dp444
+g2
+S'2013-04-03T21:30:00.000000-0500'
+p445
+sg4
+VRTF presents "The Searchers," Q&A with author Glenn Frankel
+p446
+sg6
+VCharles Ramírez Berg talks to Glenn Frankel, author of "The Searchers: The Making of an American Legend," about the myths and truths behind one of Hollywood's most legendary films, John Ford's "The Searchers" (1956), starring John Wayne. A screening of the film follows.\u000a\u000aSource\u000ahttp://rtf.utexas.edu/events/ut-rtf-community-screenings-series#Searchers
+p447
+sg8
+S'2013-04-03T19:00:00.000000-0500'
+p448
+sg10
+Vhttp://rtf.utexas.edu/events/ut-rtf-community-screenings-series#Searchers
+p449
+sg12
+VBelo Center for New Media (BMC), auditorium
+p450
+sa(dp451
+g2
+S'2013-04-06T15:30:00.000000-0500'
+p452
+sg4
+VBlanton Museum screens "Portrait of Wally"
+p453
+sg6
+VHow does the law respond to art ownership disputes? This documentary traces the legal history of a famous Egon Schiele painting - seized by the Nazis in 1939 - and the subsequent quest for its return. Director Andrew Shea, associate professor in the UT Department of Radio-Television-Film, discusses the film. Running time, 90 minutes.\u000a\u000aSource\u000ahttp://blantonmuseum.org/calendar_events/details/blanton_screening_portrait_of_wally
+p454
+sg8
+S'2013-04-06T14:00:00.000000-0500'
+p455
+sg10
+Vhttp://blantonmuseum.org/calendar_events/details/blanton_screening_portrait_of_wally
+p456
+sg12
+VBlanton Museum of Art, Edgar A. Smith Building (EAS), auditorium
+p457
+sa(dp458
+g2
+S'2013-04-09T21:00:00.000000-0500'
+p459
+sg4
+VVAC presents "Double Exposure: Reflections in Film"
+p460
+sg6
+VIn conjunction with their Vaulted Gallery exhibition "Diffuse Reflection Lab," Lead Pencil Studio and the Visual Arts Center present an evening of selected cinematic vignettes by a diverse group of directors and cinematographers, all of whom employ reflections in their work to stunning visual effect.\u000a\u000aSource\u000ahttp://utvac.org/programs/double-exposure-reflections-film
+p461
+sg8
+S'2013-04-09T19:00:00.000000-0500'
+p462
+sg10
+Vhttp://utvac.org/programs/double-exposure-reflections-film
+p463
+sg12
+VArt Building (ART) 1.102
+p464
+sa(dp465
+g2
+S'2013-04-10T22:30:00.000000-0500'
+p466
+sg4
+VAvant-Garde Film Night presents "4 x Nathaniel Dorsky"
+p467
+sg6
+VAttend a screening of four silent films by director Nathaniel Dorsky: "Compline" (18.5 min., 16mm, 2009); "Pastourelle" (16.5 min., 16mm, 2010); "August and After" (18.5 min., 16mm, 2012); and "April" (26 min., 16mm, 2012).\u000a\u000aSource\u000ahttp://themadstorkcinema.tumblr.com
+p468
+sg8
+S'2013-04-10T21:00:00.000000-0500'
+p469
+sg10
+Vhttp://themadstorkcinema.tumblr.com
+p470
+sg12
+VJones Communication Building B (CMB), Studio 4D
+p471
+sa(dp472
+g2
+S'2013-04-11T20:30:00.000000-0500'
+p473
+sg4
+V"Making Trouble": Film looks at female Jewish comedians
+p474
+sg6
+VAttend a screening of "Making Trouble," a documentary film about female Jewish comedians. Light snacks provided.
+p475
+sg8
+S'2013-04-11T19:00:00.000000-0500'
+p476
+sg10
+Nsg12
+VTexas Hillel, 2105 San Antonio Street
+p477
+sa(dp478
+g2
+S'2013-04-13T20:30:00.000000-0500'
+p479
+sg4
+VTurkish Film Series screens "Once Upon a Time in Anatolia"
+p480
+sg6
+VAttend a screening of "Bir Zamanlar Anadolu'da" (Once Upon a Time in Anatolia, 2011, 150 minutes), directed by Nuri Bilge Ceylan. In the dead of night, a group of men - including a police commissioner, a prosecutor, a doctor and a murder suspect - drive through the tenebrous Anatolian countryside in search of a corpse, the victim of a brutal murder. During the drive, further mysteries unfold. In Turkish with English subtitles.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/depts/mes/events/25429
+p481
+sg8
+S'2013-04-13T18:30:00.000000-0500'
+p482
+sg10
+Vhttp://www.utexas.edu/cola/depts/mes/events/25429
+p483
+sg12
+VMezes Hall (MEZ) 1.306
+p484
+sa(dp485
+g2
+S'2013-04-19T13:00:00.000000-0500'
+p486
+sg4
+VMEC Cinema presents Oscar-winning short "Inocente"
+p487
+sg6
+VMEC Cinema of the Multicultural Engagement Center presents a screening of the Oscar-winning short "Inocente." Screening to be followed by a discussion about the film, education and immigration as a human rights concern.\u000a\u000aSource\u000ahttps://www.facebook.com/events/359652180805540/
+p488
+sg8
+S'2013-04-19T12:00:00.000000-0500'
+p489
+sg10
+Vhttps://www.facebook.com/events/359652180805540/
+p490
+sg12
+VStudent Activity Center (SAC), Multicultural Engagement Center 1.102
+p491
+sa(dp492
+g2
+S'2013-04-20T18:00:00.000000-0500'
+p493
+sg4
+VJump Cut Film Festival announced
+p494
+sg6
+VThe 14th annual Jump Cut Film Festival features short student films and distinguished guest panelists from the film industry. A filmmakers' mixer takes place following the screening at the Texas Chilli Parlor, 1409 Lavaca Street. Learn more at the link below.\u000a\u000aSource\u000ahttps://www.facebook.com/events/523786534346332/?fref=ts
+p495
+sg8
+S'2013-04-20T15:00:00.000000-0500'
+p496
+sg10
+Vhttps://www.facebook.com/events/523786534346332/?fref=ts
+p497
+sg12
+VAlamo Drafthouse The Ritz, 320 E. 6th St.
+p498
+sa(dp499
+g2
+S'2013-04-24T21:00:00.000000-0500'
+p500
+sg4
+VCivil rights documentary screened at Sweatt Symposium
+p501
+sg6
+VThe 2013 Heman Sweatt Symposium on Civil Rights includes a screening of "The Powerbroker: Whitney Young's Fight for Civil Rights," and a talkback with documentary producer Bonnie Boswell. The film chronicles the public and private trials of a man navigating a divided society in an explosive time. A reception precedes the screening.\u000a\u000aSource\u000ahttp://ddce.utexas.edu/sweattsymposium
+p502
+sg8
+S'2013-04-24T18:00:00.000000-0500'
+p503
+sg10
+Vhttp://ddce.utexas.edu/sweattsymposium
+p504
+sg12
+VLBJ Library and Museum
+p505
+sa(dp506
+g2
+S'2013-04-24T23:00:00.000000-0500'
+p507
+sg4
+VMad Stork Avant Garde Film Night screens Mark LaPore films
+p508
+sg6
+VMad Stork presents 3 X LaPore, a screening of five short films. Scheduled to be screened are "Netezza Urbana: N.U." (Michelangelo Antonioni, 9 min., 1948); "Crossroad" (Phil Solomon with Mark LaPore, 5 min., 2005); "The Sleepers" (LaPore, 16 min., 1989), "A Depression in the Bay of Bengal" (LaPore, 28 min. 1996) and "The Glass System" (LaPore, 20 min., 2000).\u000a\u000aSource\u000ahttp://themadstorkcinema.tumblr.com
+p509
+sg8
+S'2013-04-24T21:00:00.000000-0500'
+p510
+sg10
+Vhttp://themadstorkcinema.tumblr.com
+p511
+sg12
+VJones Communication Building B (CMB), Studio 4D
+p512
+sa(dp513
+g2
+S'2013-04-28T18:00:00.000000-0500'
+p514
+sg4
+V"PORTFOLIO" opening reception held
+p515
+sg6
+VCome see how imagination manifests itself on stage and film. Join Theatre and Dance artists at the opening reception of PORTFOLIO: The Future of Performance Design & Technology. This annual exhibition celebrates the work of emerging artists in costume design, lighting design, scenery, media and technology.\u000a\u000aSource\u000ahttp://uttad.tumblr.com/post/47642316005/portfolio-the-future-of-performance-design
+p516
+sg8
+S'2013-04-28T16:00:00.000000-0500'
+p517
+sg10
+Vhttp://uttad.tumblr.com/post/47642316005/portfolio-the-future-of-performance-design
+p518
+sg12
+VWinship Drama Building (WIN), Oscar G. Brockett Theatre
+p519
+sa(dp520
+g2
+S'2013-04-29T17:00:00.000000-0500'
+p521
+sg4
+V"PORTFOLIO" celebrates performance design & technology
+p522
+sg6
+VThe University of Texas at Austin Department of Theatre and Dance presents "PORTFOLIO 2013," an exciting exhibition celebrating the work of emerging artists in costume design, lighting design, scenery, media and technology. Come see how imagination manifests itself on stage and film. Closed May 3. Hours on May 4 are 10 a.m.-5 p.m.\u000a\u000aSource\u000ahttp://uttad.tumblr.com/post/47642316005/portfolio-the-future-of-performance-design
+p523
+sg8
+S'2013-04-29T08:00:00.000000-0500'
+p524
+sg10
+Vhttp://uttad.tumblr.com/post/47642316005/portfolio-the-future-of-performance-design
+p525
+sg12
+VWinship Drama Building (WIN), Oscar G. Brockett Theatre
+p526
+sa(dp527
+g2
+S'2013-04-29T18:30:00.000000-0500'
+p528
+sg4
+VTraversing the Boundaries of Resistance symposium held
+p529
+sg6
+VActivists Edson Cardoso (Brazil) and Haile Gerima (Ethiopia/U.S.) attend a screening of "Beyond the Mirror" (dir. Ana Flauzina) at the "Traversing the Boundaries of Resistance" symposium. The film features a dialogue between Cardoso and Gerima. Following is a formal presentation by Cardoso and a screening and discussion of Gerima's most recent movie "Teza."\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/centers/caaas/
+p530
+sg8
+S'2013-04-29T10:00:00.000000-0500'
+p531
+sg10
+Vhttp://www.utexas.edu/cola/centers/caaas/
+p532
+sg12
+VCollege of Liberal Arts Building (CLA), Julius Glickman Conference Center 1.302B
+p533
+sa(dp534
+g2
+S'2013-05-04T17:00:00.000000-0500'
+p535
+sg4
+V"PORTFOLIO" celebrates performance design & technology
+p536
+sg6
+VThe University of Texas at Austin Department of Theatre and Dance presents "PORTFOLIO 2013," an exciting exhibition celebrating the work of emerging artists in costume design, lighting design, scenery, media and technology. Come see how imagination manifests itself on stage and film.\u000a\u000aSource\u000ahttp://uttad.tumblr.com/post/47642316005/portfolio-the-future-of-performance-design
+p537
+sg8
+S'2013-05-04T10:00:00.000000-0500'
+p538
+sg10
+Vhttp://uttad.tumblr.com/post/47642316005/portfolio-the-future-of-performance-design
+p539
+sg12
+VWinship Drama Building (WIN), Oscar G. Brockett Theatre
+p540
+sa(dp541
+g2
+S'2012-10-03T13:00:00.000000-0500'
+p542
+sg4
+VCMAS plática explores career of local female boxer
+p543
+sg6
+VIn 2005, San Angelo native Anissa Zamarron defeated San Antonio's Maribel Zurita to win her second women's boxing world title. She then retired due to injuries. This plática features "The Assassin" a short film by Amanda E. Gray, and questions and answers with Zamarron.\u000a\u000aSource\u000ahttp://www.utexas.edu/cola/cmas/
+p544
+sg8
+S'2012-10-03T12:00:00.000000-0500'
+p545
+sg10
+Vhttp://www.utexas.edu/cola/cmas/
+p546
+sg12
+VStudent Activity Center (SAC), Meeting Room 1.106
+p547
+sa(dp548
+g2
+S'2012-10-08T22:00:00.000000-0500'
+p549
+sg4
+V"Blue Like Jazz" screened, with director Steve Taylor
+p550
+sg6
+VSignificance & Cinema hosts a screening of "Blue Like Jazz" with director Steve Taylor as part of the new Significance & Cinema Story Sessions Series. Taylor will discuss the making of the film and the elements of faith found in the story it tells. Join the Facebook event here: http://www.facebook.com/events/368796919867444/. Purchase tickets at link below.\u000a\u000aSource\u000ahttp://bluelikejazzstorysession.eventbrite.com/
+p551
+sg8
+S'2012-10-08T19:00:00.000000-0500'
+p552
+sg10
+Vhttp://bluelikejazzstorysession.eventbrite.com/
+p553
+sg12
+VStudent Activities Center (SAC), auditorium
+p554
+sa(dp555
+g2
+S'2012-11-15T21:00:00.000000-0600'
+p556
+sg4
+VHIV/AIDS Awareness Film Series presents "Call Me Kuchu"
+p557
+sg6
+VGlobeMed, Face AIDS and the Queer Student Alliance present the never before released award-winning film "Call Me Kuchu." Proceeds are to be donated to local and international organizations that are fighting HIV/AIDS. Baked goods sold.
+p558
+sg8
+S'2012-11-15T19:00:00.000000-0600'
+p559
+sg10
+Nsg12
+VMezes Hall (MEZ) B0.306
+p560
+sa(dp561
+g2
+S'2013-02-05T21:15:00.000000-0600'
+p562
+sg4
+V"180 South" screening hosted with star Jeff Johnson
+p563
+sg6
+VAttend a screening of "180 South" with special guest Jeff Johnson, star of the film, who discusses the film during a Q&A after the screening. Adventurers, environmentalists and anyone who needs a break from studies are all welcome.\u000a\u000aSource\u000ahttps://www.facebook.com/events/436265803113122/?notif_t=plan_user_joined
+p564
+sg8
+S'2013-02-05T19:00:00.000000-0600'
+p565
+sg10
+Vhttps://www.facebook.com/events/436265803113122/?notif_t=plan_user_joined
+p566
+sg12
+VTexas Union Building (UNB) 2.228
+p567
+sa(dp568
+g2
+S'2013-02-28T20:30:00.000000-0600'
+p569
+sg4
+V"Pariah" screened at GSC Movie Night
+p570
+sg6
+VThe Gender and Sexuality Center screens the award-winning feature film "Pariah," a coming-of-age tale about a Brooklyn teenager coming to terms with her sexuality. Light snacks provided.
+p571
+sg8
+S'2013-02-28T19:00:00.000000-0600'
+p572
+sg10
+Nsg12
+VStudent Activity Center (SAC), Gender and Sexuality Center 2.112
+p573
+sa(dp574
+g2
+S'2013-03-18T21:00:00.000000-0500'
+p575
+sg4
+VOrange Jackets Week of Women screens "Bridesmaids"
+p576
+sg6
+VKick off Orange Jackets' annual Week of Women event with a screening of the popular film "Bridesmaids." Free t-shirts and other giveaways available. Screening is followed by a panel discussion with UT professors on women in the media.\u000a\u000aSource\u000ahttp://ojackets.com/week-of-womenblog/
+p577
+sg8
+S'2013-03-18T18:00:00.000000-0500'
+p578
+sg10
+Vhttp://ojackets.com/week-of-womenblog/
+p579
+sg12
+VTexas Union Theatre (UNB) 2.228
+p580
+sa(dp581
+g2
+S'2013-03-21T22:00:00.000000-0500'
+p582
+sg4
+V"Night of the Living Dead" screened
+p583
+sg6
+VStudents for Clean Water presents its Fright Night Film Screening, featuring "Night of the Living Dead" (1968). Doors open at 6:30 p.m. Snacks sold outside before the show. All donations support clean water projects in Ethiopia.\u000a\u000aSource\u000ahttps://www.facebook.com/events/342523482535946/
+p584
+sg8
+S'2013-03-21T19:00:00.000000-0500'
+p585
+sg10
+Vhttps://www.facebook.com/events/342523482535946/
+p586
+sg12
+VStudent Activity Center (SAC), auditorium
+p587
+sa(dp588
+g2
+S'2012-10-18T20:30:00.000000-0500'
+p589
+sg4
+V"It's a Girl" documentary screened
+p590
+sg6
+VThe documentary film "It's a Girl" calls attention to the estimated 200 million girls who are "missing" every year due to gendercide, the deliberate and systematic destruction of a specific gender.\u000a\u000aSource\u000ahttp://www.facebook.com/events/450074201695386/
+p591
+sg8
+S'2012-10-18T19:00:00.000000-0500'
+p592
+sg10
+Vhttp://www.facebook.com/events/450074201695386/
+p593
+sg12
+VTexas Union Building (UNB), Quadrangle Room 3.304
+p594
+sa(dp595
+g2
+S'2012-11-06T21:00:00.000000-0600'
+p596
+sg4
+V"The Man Nobody Knew": Film looks at life of CIA spy
+p597
+sg6
+VAttend a screening of "The Man Nobody Knew: In Search of My Father, CIA Spymaster William Colby." Screening to be followed by a Q&A with filmmaker Carl Colby.
+p598
+sg8
+S'2012-11-06T18:30:00.000000-0600'
+p599
+sg10
+Nsg12
+VApplied Computational Engineering & Sciences Building (ACE), Avaya Auditorium 2.302
+p600
+sa(dp601
+g2
+S'2013-01-24T21:00:00.000000-0600'
+p602
+sg4
+VCAN presents advance screening of "NO"
+p603
+sg6
+VStudents of the World at UT kicks off its first semester of the Creative Activist Network (CAN) with a screening of the new Chilean documentary "NO," about the overthrow of Augusto Pinochet in Chile during the late 1980s. Seating is limited. Find a synopsis and trailer of the film here at http://www.participantmedia.com/pm-films/no-film/.\u000a\u000a\u000a\u000aStudents of the World's UT Chapter gives special thanks to Participant Media for this presentation.\u000a\u000aSource\u000ahttp://www.facebook.com/events/595325130484253/
+p604
+sg8
+S'2013-01-24T19:00:00.000000-0600'
+p605
+sg10
+Vhttp://www.facebook.com/events/595325130484253/
+p606
+sg12
+VChemical and Petroleum Engineering Building (CPE) 2.214
+p607
+sa(dp608
+g2
+S'2013-04-29T20:30:00.000000-0500'
+p609
+sg4
+V"Last Call at the Oasis" environmental film screened
+p610
+sg6
+VHow might climate change and population growth affect the way your water is replenished? Jay Famiglietti explores this question in "Last Call at the Oasis," a film by the producers of "An Inconvenient Truth." A Q&A follows the screening.\u000a\u000aSource\u000ahttp://www.esi.utexas.edu/k-12-a-the-community/esi-educational-mini-sites/hot-science-cool-flicks
+p611
+sg8
+S'2013-04-29T18:00:00.000000-0500'
+p612
+sg10
+Vhttp://www.esi.utexas.edu/k-12-a-the-community/esi-educational-mini-sites/hot-science-cool-flicks
+p613
+sg12
+VJackson Geosciences Building (JGB) 2.324 
+p614
+sa(dp615
+g2
+S'2013-02-25T13:00:00.000000-0600'
+p616
+sg4
+V"Zero Dark Thirty" & torture in American discourse discussed
+p617
+sg6
+VDr. Ramzi Kassem, associate professor of law and director of the Immigrant and Non-Citizen Rights Clinic, CUNY Law School, focuses on how the Oscar-nominated film "Zero Dark Thirty" has reignited the controversy about the place of torture in American policy. Kassem explores what the ongoing debate reveals - and obscures - about American counterterrorism efforts and the United States' current legal and moral standing.
+p618
+sg8
+S'2013-02-25T11:30:00.000000-0600'
+p619
+sg10
+Nsg12
+VSchool of Law (TNH) 3.127
+p620
+sa.
