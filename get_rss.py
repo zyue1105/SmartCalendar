@@ -47,47 +47,49 @@ def generate_test_data():
     Return list of documents, in which each document is a dict
     {'Content' : , 'Title' : , 'link' : , 'start' : , 'end' : , 'location' : }
     '''
-    documents = []
-    url_prefix = 'http://calendar.tamu.edu/?&y=2013&m=4&d='
+    documents = []    
     url_affix = '&format=rss'
-
-    for day in range(31):
-        
-        url = url_prefix + str(day + 1) + url_affix
-        d = feedparser.parse(url)
-
-        for i in range(len(d.entries)):
-            tmp_dict = {}
-            tmp_dict['Title'] = d.entries[i].title
-            tmp_dict['link'] = d.entries[i].link            
-           
-            # parse HTML
-            html_doc = d.entries[i].description    
-            soup = BeautifulSoup(html_doc)            
-            # print soup.prettify()        
-            # find the contents    
-            tmp_dict['Content'] = soup.find('div', class_= 'summary').string           
+    
+    for month in range(12):
+        url_prefix = 'http://calendar.tamu.edu/?&y=2013&m=' + str(month + 1) + '&d='
+        print 'month', month + 1, ':'
+        for day in range(31):
             
-            # find the time
-            #print html_doc
-            tmp_dict['start'] = soup.find('abbr', class_ = 'dtstart')['title']
-            dtend = soup.find('abbr', class_ = 'dtend')
-            if dtend != None:
-                tmp_dict['end'] = dtend['title']
-            else:
-                tmp_dict['end'] = tmp_dict['start']            
+            url = url_prefix + str(day + 1) + url_affix
+            d = feedparser.parse(url)
 
-            # find the location
-            tmp_dict['location'] = soup.find('small', class_ = 'location').string
+            for i in range(len(d.entries)):
+                tmp_dict = {}
+                tmp_dict['Title'] = d.entries[i].title
+                tmp_dict['link'] = d.entries[i].link            
+               
+                # parse HTML
+                html_doc = d.entries[i].description    
+                soup = BeautifulSoup(html_doc)            
+                # print soup.prettify()        
+                # find the contents    
+                tmp_dict['Content'] = soup.find('div', class_= 'summary').string           
+                
+                # find the time
+                #print html_doc
+                tmp_dict['start'] = soup.find('abbr', class_ = 'dtstart')['title']
+                dtend = soup.find('abbr', class_ = 'dtend')
+                if dtend != None:
+                    tmp_dict['end'] = dtend['title']
+                else:
+                    tmp_dict['end'] = tmp_dict['start']            
 
-            # add source to content
-            if tmp_dict['link'] != None and tmp_dict['Content'] != None:
-                tmp_dict['Content'] += '\n\nSource\n' + tmp_dict['link']
-            
-            #print tmp_dict
-            documents.append(tmp_dict)
+                # find the location
+                tmp_dict['location'] = soup.find('small', class_ = 'location').string
 
-        print 'day', day + 1, ':', len(documents)
+                # add source to content
+                if tmp_dict['link'] != None and tmp_dict['Content'] != None:
+                    tmp_dict['Content'] += '\n\nSource\n' + tmp_dict['link']
+                
+                #print tmp_dict
+                documents.append(tmp_dict)
+
+            print 'day', day + 1, ':', len(documents)
 
     print len(documents)
 
@@ -101,7 +103,7 @@ def generate_test_data_icalendar():
     '''
     cal = Calendar.from_ical(open('./Test_data/UTaustin.ics','rb').read())
     cnt = 0
-    #total = 100
+##    total = 100
     documents = []
     
     for component in cal.walk():        
@@ -109,14 +111,21 @@ def generate_test_data_icalendar():
             tmp_dict = {}
             tmp_dict['Content'] = component.get('description').format()
             tmp_dict['Title'] = component.get('summary').format()
-            tmp_dict['link'] = component.get('url')
+            url = component.get('url')            
+            if url != None and '{' not in url:
+                tmp_dict['link'] = url.format()
+            else:
+                tmp_dict['link'] = None
             # convert datetime to dateime64
             tmp_dict['start'] = str(np.datetime64(component.get('dtstart').dt))
-            tmp_dict['stend'] = str(np.datetime64(component.get('dtend').dt))
+            tmp_dict['end'] = str(np.datetime64(component.get('dtend').dt))
             tmp_dict['location'] = component.get('location').format()
+
+            if 'T' not in tmp_dict['start'] or 'T' not in tmp_dict['end']:
+                continue
             # add source to content
             if tmp_dict['link'] != None and tmp_dict['Content'] != None:
-                tmp_dict['Content'] += '\n\nSource\n' + tmp_dict['link']
+                tmp_dict['Content'] += '\n\nSource\n' + tmp_dict['link']    
             
             documents.append(tmp_dict)
             cnt += 1

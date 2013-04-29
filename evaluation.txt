@@ -1,0 +1,37 @@
+Smart Calendar
+March UTAustin
+food
+Precision : 34 / 39 = 87.2%
+Recall    : null
+
+movie
+Precision : 12 / 12 = 100%
+Recall    : 12 / 22 = 54.5%
+
+April UTAustin
+food 
+Precision : 38 / 43 = 88.4%
+Recall	  : null
+
+movie 
+Precision : 17 / 17 = 100%
+Recall    : 17 / 26 = 65.4%
+
+
+March TAMU
+food 
+Precision : 2 / 2 = 100%
+Recall	  : null
+
+movie 
+Precision : 6 / 6 = 100%
+Recall    : null
+
+April TAMU
+food 
+Precision : 1 / 2 = 50%
+Recall	  : null
+
+movie 
+Precision : 5 / 5 = 100%
+Recall    : null

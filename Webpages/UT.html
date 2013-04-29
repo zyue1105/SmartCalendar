@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Smart Calendar</title>
+	<meta charset=UTF-8>
+	<script language="JavaScript" type="text/javascript">
+		function jump(url){
+			location.href = url
+		}
+	</script>
+</head>
+<body>
+	<div align='center'>
+	<form action="" method="post">
+		<select id="school" name="school" onchange="jump(school.value)">
+			<option value="TAMU.html">Texas A&M University--College Station</option>
+			<option value="UT.html" selected>University of Texas--Austin</option>
+		</select>
+		<!--input type="button" value="submit" onclick="jump(school.value)"-->		
+	</form>
+	<iframe src="https://www.google.com/calendar/embed?title=Smart%20Calendar(UT)&amp;height=600&amp;wkst=1&amp;bgcolor=%23cc6600&amp;src=docii79unog5q3hfnhe896dems%40group.calendar.google.com&amp;color=%23B1365F&amp;src=p9crml6lv586pc2bahl1439dmg%40group.calendar.google.com&amp;color=%23333333&amp;ctz=America%2FChicago" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+	</div>
+</body>
+	
+</html>
